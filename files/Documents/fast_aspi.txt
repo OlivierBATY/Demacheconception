@@ -1,0 +1,283 @@
+SI - Unité PE : Analyse fonctionnelle page 1/7 Classe : 1 STE 
+ANALYSE FONCTIONNELLE 
+I. Introduction 
+L’analyse fonctionnelle est une approche scientifique qui raisonne en termes de fonctions devant être 
+assurées par un produit : elle consiste à recenser, caractériser, et hiérarchiser les fonctions d'un système. 
+Selon qu'on s'intéresse aux fonctions de service ou qu'on s'intéresse aux fonctions techniques, on parle 
+d'analyse fonctionnelle externe ou interne. 
+II. Analyse fonctionnelle externe 
+L'analyse fonctionnelle externe, décrit le point de vue de l'utilisateur et ne s'intéresse au produit qu'en 
+tant que "boite noire" capable de fournir des services dans son environnement durant son cycle 
+d'utilisation. 
+II.1. Expression du besoin et produit 
+Le produit est ce qui est fourni à l’utilisateur pour répondre à un besoin. 
+Le besoin est la nécessité ou le désir éprouvé par un utilisateur. 
+On peut classer les produits suivant 3 catégories : 
+II.2. Diagramme "Bête à corne" 
+Pour définir le besoin éprouvé par l’utilisateur pour un produit, il faut répondre à 3 questions, celles-ci 
+étant généralement regroupées dans un graphique appelé familièrement « bête à corne » 
+Matériel 
+.Fluide (Gaz ou liquide) 
+.Matière première (pétrole, 
+minerai de fer, …) 
+.Objet (scooter, ordinateur, …) 
+Processus 
+. Processus industriel en 
+cours d’étude. 
+(usine de fabrication,…). 
+. Processus administratif 
+(demande de passeport, …). 
+Service 
+. Activité qui ne produit 
+pas directement de biens 
+concrets. 
+(Banque, Lycée,…) 
+Nom du produit 
+A qui (à quoi) le système 
+rend il service ? 
+Sur qui (sur quoi) le 
+système agit-il ? 
+Dans quel but ?
+
+SI - Unité PE : Analyse fonctionnelle page 2/7 Classe : 1 STE 
+Exemple : grille pain 
+Il faut ensuite valider le besoin en répondant aux questions suivantes : 
+. Pourquoi le besoin existe-t-il ? 
+. Qu’est-ce qui pourrait faire évoluer le besoin ? 
+. Quels sont les risques de voir disparaître le besoin ? 
+II.3. Recherche des fonctions de service 
+Définition : une fonction de service est l’action d’un produit ou de l’un de ses constituants, exprimé 
+exclusivement en terme de finalité, indépendamment des moyens matériels utilisés. Exemple : Griller du 
+pain à partir d’une énergie électrique. 
+Pour définir ces fonctions de service, on trace le graphe des interactions. 
+II.4. Diagramme "Pieuvre" ou graphe des interactions 
+Ce graphe permet de visualiser les relations du produit avec les éléments réels du milieu extérieur 
+Exemple : graphe d’interaction (incomplet) du grille pain dans la situation « utilisation » 
+Chaque Milieu Extérieur peut être caractérisé : exemple Grille pain 
+Milieu Extérieur Critères Niveaux 
+Utilisateur 
+Age 
+Qualification 
+10 à 75 ans 
+Aucune 
+Grille Pain 
+Utilisateur 
+Réseau 
+Lydec 
+Miettes 
+Tranches 
+de pain 
+Local 
+Milieux Extérieurs 
+Remarque : Il y a 4 familles de Milieux Extérieurs 
+. Ambiance (climat, température …) 
+. Energie (Réseau, Batterie …) 
+. Individu (Enfant, Technicien …) 
+. Objet (Meuble, Outil …) 
+Grille pain 
+Particulier Tranches de pain 
+Avoir des tranches de pain 
+chaudes et croustillantes
+
+SI - Unité PE : Analyse fonctionnelle page 3/7 Classe : 1 STE 
+Fonctions de service. 
+Elles peuvent être classées en 2 catégories : 
+. Fonction principale : FP (aussi appelée fonction d’Interaction FI ) 
+C’est une fonction de service qui justifie la création du produit. 
+Fonction principale = FP = Action + milieu Extérieur 1 + milieu Extérieur 2 
+Elle s’exprime par une phrase comprenant un verbe d’action à l’infinitif et deux milieux extérieurs. 
+Exemple : FC1 = Griller du pain à partir d’une énergie électrique 
+. Fonction contrainte: FC (aussi appelée fonction d’adaptation FA ) 
+C’est une fonction de service qui limite la liberté du concepteur 
+Fonction contrainte = FC = Action + milieu Extérieur 
+Elle s’exprime par une phrase comprenant un verbe d’action et un milieu extérieur. 
+Exemple : FA1 : Etre réglable par l’utilisateur 
+Exemple : graphe d’interaction complet du grille pain dans la situation « utilisation » 
+II.4.Cahier des Charges Fonctionnel (CdCF) 
+La caractérisation des différentes fonctions de service débouche sur l’écriture de Cahier des Charges 
+Fonctionnelles (CdCF) C’est l’ensemble des données qui représente la référence permanente que tout 
+concepteur doit posséder pour concevoir des solutions, les analyser et effectuer un choix. 
+Les fonctions sont alors complètement définies. Elles sont assorties de: 
+Critère(s): échelle retenue (ex: longueur, poids, temps, couleur,...) pour apprécier la manière dont une 
+fonction est remplie. 
+Niveau: niveau repéré dans l’échelle adoptée pour un critère (ex: 20 cm, 15 kg, ...) 
+Flexibilité: modulation tolérée du niveau (ex: à 2cm près ) 
+III. Analyse fonctionnelle interne 
+Pour réaliser les fonctions de service énoncées précédemment, un produit est constitué de composants, de 
+pièces mécaniques,… Ces ensembles de pièces réalisent des fonctions techniques permettant de satisfaire 
+les fonctions de service. 
+Remarque : Différence entre FS et FT : 
+Fonction de service: Action attendue par un produit (ou réalisée par lui pour répondre au besoin d’un 
+utilisateur donné). 
+Fonctions de services 
+Grille Pain 
+Réseau Lydec 
+Miettes 
+Local 
+FI1 
+FI2
+FA2 FA1 FA4 
+Tranches FA3 
+de pain 
+Utilisateur 
+FP1 : Griller du pain à partir d’une énergie électrique 
+FP2 : Faciliter la mise en place du pain par l’utilisateur 
+FC1 : Etre réglable par l’utilisateur 
+FC2 : S’intégrer dans le local 
+FC3 : Stoker et évacuer les miettes 
+FC4 : Protéger l’utilisateur
+
+SI - Unité PE : Analyse fonctionnelle page 4/7 Classe : 1 STE 
+Fonction technique: Action interne au produit permettant d’assurer les fonctions de service (fonction 
+liaison, étanchéité, lubrification, ...). 
+Pour réaliser cette phase d'analyse fonctionnelle du produit, on dispose de plusieurs outils, que nous allons 
+décrire ci-dessous. 
+III.1. Arborescence 
+Cet outil permet de hiérarchiser des fonctions ou des composants. 
+III.2. Schéma bloc 
+Cet outil permet de découper le système en bloc fonctionnel et de suivre l'évolution des paramètres 
+entrants et sortants de chaque bloc. 
+Par exemple, dans le cas du grille-pain, on aurait : 
+III.3. Diagramme FAST (Function Analysis System Technique) 
+Cet outil permet, à partir d'une fonction de service, par un questionnement, d'aboutir aux fonctions 
+techniques et aux solutions constructives associées. 
+Fonction Sous Fonction 1 
+Sous Fonction 2 
+Ensemble Sous-Ensemble 1 
+Pièce 3 
+Pièce 1 
+Pièce 2 
+Sous-Ensemble 2 
+Alimenter 
+(raccord réseau) 
+Distribuer 
+(interrupteur) 
+Convertir 
+(résistance) 
+Transmettre 
+(dissipateur) 
+Eélec 
+(U, I) 
+Eélec 
+(U, I) 
+Eélec 
+(U, I) 
+Etherm 
+(T) 
+Etherm 
+(T) 
+Quand cette fonction doit-elle être assurée ? 
+Quand ? 
+Pourquoi ? 
+Pourquoi doit-elle être assurée ? Comment doit-elle être assurée ? 
+Quand ? 
+FONCTION Comment ?
+
+SI - Unité PE : Analyse fonctionnelle page 5/7 Classe : 1 STE 
+Deux agencements particuliers peuvent se rencontrer : 
+Agencement en ET Agencement en OU 
+Voici par exemple, le FAST partiel d'un aspirateur : 
+III.4. Méthode SADT (Structure Analys and Design Technic) 
+Elle reprend le principe précédant mais utilise des règles et un formalisme plus complexe. Ce type 
+d’analyse, de décomposition fonctionnelle permet de modéliser et de décrire graphiquement des systèmes 
+techniques. On procède par analyses successives descendantes, c’est à dire en allant du plus général vers le 
+plus détaillé en fonction des besoins. 
+III.4.1. Démarche : 
+. On commence par le diagramme de niveau le plus élevé A-0 (A moins zéro) représentant la 
+finalité du système technique. 
+Nettoyer 
+un local 
+Enlever la 
+poussière 
+Séparer 
+la poussière 
+de l'air 
+Aspirer 
+la 
+poussière 
+Evacuer 
+la 
+poussière 
+Filtrer l'air 
+Créer un 
+flux d'air 
+Stocker 
+la poussière 
+Filtres 
+Turbine 
+Sac jetable 
+Fonctions de service Fonctions techniques Solutions 
+Analyse externe Analyse interne
+
+SI - Unité PE : Analyse fonctionnelle page 6/7 Classe : 1 STE 
+On retrouve sur ce diagramme les éléments suivants : 
+. Frontière d'isolement : elle permet de distinguer le système du milieu extérieur environnant. 
+. Fonction globale : c'est la finalité du système et se définit par un verbe à l'infinitif. 
+. Données d'entrée : c'est en fait la matière d'oeuvre sur lequel agit le système. 
+il existe 3 types d'entrées : produit, énergie ou information. 
+. Données de sortie : on retrouve principalement la matière d'oeuvre munie de la valeur ajoutée. 
+on a secondairement des comptes-rendus (retour d'information), des pertes énergétiques et des 
+rebuts. 
+. Contraintes de pilotage ou de commande : ce sont les paramètres qui déclenchent ou 
+modifient la réalisation d'une fonction. On retrouve ainsi : 
+-C paramètres de configuration. 
+- R paramètres de réglage. 
+- E données d'exploitation, consignes de fonctionnement. 
+- W mise en énergie, présence matière d'oeuvre. 
+. Processeurs ou mécanismes : ce sont les éléments physiques ou technologiques qui réalisent la 
+fonction ou qui supportent l'activité. 
+. Ensuite on descend dans les niveaux, en traçant le diagramme de niveau A0 (A zéro), puis A1 en 
+respectant la hiérarchie des niveaux. On décrit ainsi les sous fonctions du système 
+C1 C2 
+C1 C2 
+E S 
+E 
+S 
+AGIR SUR LES ENTREES 
+POUR PRODUIRE LA 
+VALEUR AJOUTEE 
+ENTREES SORTIES 
+Niveau A-0 
+Mécanisme ou processeur 
+C R E W 
+MO MO + VA 
+CONTRAINTES
+
+SI - Unité PE : Analyse fonctionnelle page 7/7 Classe : 1 STE 
+Comme le montre la figure ci-dessus, on veillera lors d'un changement de niveau à conserver les mêmes 
+données extérieures. 
+Hiérarchie des diagrammes 
+III.4.2. Exercice d’application : compléter le tableau suivant 
+Produit ou service Matière d’oeuvre 
+entrante Matière d’oeuvre sortante Valeur ajoutée 
+Barrage + turbine Energie hydraulique Energie électrique 
+batterie Energie chimique Energie électrique 
+Convecteur électrique Energie électrique Energie thermique 
+Vérin pneumatique Energie pneumatique 
+(air comprimé) 
+Energie mécanique 
+Moteur électrique Energie électrique Energie mécanique 
+Moteur à explosion Energie chimique Energie mécanique 
+Transformation 
+d’énergie 
+Laiterie lait fromages 
+Menuiserie Bois Meubles 
+Industries de 
+transformation de 
+matière 
+Vélo, auto, train, 
+bateau… 
+Personnes, 
+marchandises 
+Personnes et marchandises 
+déplacées 
+Transport de 
+personnes et de 
+marchandises 
+Télévision Ondes hertziennes Image 2D + son Transmission 
+d’information 
+Lycée Elèves Elèves éduqués, formés, 
+orientés 
+Education, formation, 
+orientation..
+

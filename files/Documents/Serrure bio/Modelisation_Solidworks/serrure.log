@@ -1,0 +1,1712 @@
+
+===============Init Logging================
+
+17/01/2011 - 22:39:10 	===== Ouverture de session =====
+17/01/2011 - 22:39:23 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+17/01/2011 - 22:45:18 	===== Ouverture de session =====
+17/01/2011 - 23:51:32 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+17/01/2011 - 23:52:19 	===== Ouverture de session =====
+17/01/2011 - 23:57:01 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+18/01/2011 - 20:11:37 	===== Ouverture de session =====
+18/01/2011 - 21:40:16 	Début du calcul
+18/01/2011 - 21:40:16 	Nombre de positions : 1
+18/01/2011 - 21:40:16 	Simulation inactivée
+18/01/2011 - 21:40:16 	Lecture des conditions initiales
+18/01/2011 - 21:40:16 	Fin du calcul
+18/01/2011 - 21:40:23 	Début du calcul
+18/01/2011 - 21:40:23 	Nombre de positions : 100
+18/01/2011 - 21:40:23 	Simulation inactivée
+18/01/2011 - 21:40:23 	Lecture des conditions initiales
+18/01/2011 - 21:40:23 	Fin du calcul
+18/01/2011 - 21:43:58 	Début du calcul
+18/01/2011 - 21:43:58 	Nombre de positions : 100
+18/01/2011 - 21:43:58 	Simulation inactivée
+18/01/2011 - 21:43:58 	Lecture des conditions initiales
+18/01/2011 - 21:43:58 	Fin du calcul
+18/01/2011 - 21:44:40 	Début du calcul
+18/01/2011 - 21:44:40 	Nombre de positions : 100
+18/01/2011 - 21:44:40 	Simulation inactivée
+18/01/2011 - 21:44:40 	Lecture des conditions initiales
+18/01/2011 - 21:44:41 	Fin du calcul
+18/01/2011 - 21:52:04 	Début du calcul
+18/01/2011 - 21:52:04 	Nombre de positions : 100
+18/01/2011 - 21:52:04 	Simulation inactivée
+18/01/2011 - 21:52:04 	Lecture des conditions initiales
+18/01/2011 - 21:52:04 	Fin du calcul
+18/01/2011 - 21:52:27 	Début du calcul
+18/01/2011 - 21:52:27 	Nombre de positions : 100
+18/01/2011 - 21:52:27 	Simulation inactivée
+18/01/2011 - 21:52:27 	Lecture des conditions initiales
+18/01/2011 - 21:52:27 	Fin du calcul
+18/01/2011 - 21:53:13 	Début du calcul
+18/01/2011 - 21:53:13 	Nombre de positions : 100
+18/01/2011 - 21:53:13 	Simulation inactivée
+18/01/2011 - 21:53:13 	Lecture des conditions initiales
+18/01/2011 - 21:53:13 	Fin du calcul
+18/01/2011 - 21:55:13 	Début du calcul
+18/01/2011 - 21:55:13 	Nombre de positions : 100
+18/01/2011 - 21:55:13 	Simulation inactivée
+18/01/2011 - 21:55:13 	Lecture des conditions initiales
+18/01/2011 - 21:55:15 	Analyse du système incorrecte
+18/01/2011 - 21:55:15 	Abandon du calcul
+18/01/2011 - 21:55:35 	Début du calcul
+18/01/2011 - 21:55:35 	Nombre de positions : 100
+18/01/2011 - 21:55:35 	Simulation inactivée
+18/01/2011 - 21:55:35 	Lecture des conditions initiales
+18/01/2011 - 21:55:37 	Analyse du système incorrecte
+18/01/2011 - 21:55:37 	Abandon du calcul
+18/01/2011 - 21:56:23 	Début du calcul
+18/01/2011 - 21:56:23 	Nombre de positions : 100
+18/01/2011 - 21:56:23 	Simulation inactivée
+18/01/2011 - 21:56:23 	Lecture des conditions initiales
+18/01/2011 - 21:56:24 	Analyse du système incorrecte
+18/01/2011 - 21:56:24 	Abandon du calcul
+18/01/2011 - 21:56:36 	Début du calcul
+18/01/2011 - 21:56:36 	Nombre de positions : 100
+18/01/2011 - 21:56:36 	Simulation inactivée
+18/01/2011 - 21:56:36 	Lecture des conditions initiales
+18/01/2011 - 21:56:38 	Analyse du système incorrecte
+18/01/2011 - 21:56:38 	Abandon du calcul
+18/01/2011 - 21:56:51 	Début du calcul
+18/01/2011 - 21:56:51 	Nombre de positions : 100
+18/01/2011 - 21:56:51 	Simulation inactivée
+18/01/2011 - 21:56:51 	Lecture des conditions initiales
+18/01/2011 - 21:56:52 	Analyse du système incorrecte
+18/01/2011 - 21:56:52 	Abandon du calcul
+18/01/2011 - 21:57:22 	Début du calcul
+18/01/2011 - 21:57:22 	Nombre de positions : 100
+18/01/2011 - 21:57:22 	Simulation inactivée
+18/01/2011 - 21:57:22 	Lecture des conditions initiales
+18/01/2011 - 21:57:25 	Analyse du système incorrecte
+18/01/2011 - 21:57:25 	Abandon du calcul
+18/01/2011 - 21:58:44 	Début du calcul
+18/01/2011 - 21:58:44 	Nombre de positions : 100
+18/01/2011 - 21:58:44 	Simulation inactivée
+18/01/2011 - 21:58:44 	Lecture des conditions initiales
+18/01/2011 - 21:58:45 	Analyse du système incorrecte
+18/01/2011 - 21:58:45 	Abandon du calcul
+18/01/2011 - 21:59:08 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+18/01/2011 - 22:00:34 	===== Ouverture de session =====
+18/01/2011 - 22:02:07 	Début du calcul
+18/01/2011 - 22:02:07 	Nombre de positions : 100
+18/01/2011 - 22:02:07 	Simulation inactivée
+18/01/2011 - 22:02:07 	Lecture des conditions initiales
+18/01/2011 - 22:02:09 	Analyse du système incorrecte
+18/01/2011 - 22:02:09 	Abandon du calcul
+18/01/2011 - 22:09:01 	Début du calcul
+18/01/2011 - 22:09:01 	Nombre de positions : 100
+18/01/2011 - 22:09:01 	Simulation inactivée
+18/01/2011 - 22:09:01 	Lecture des conditions initiales
+18/01/2011 - 22:09:01 	Fin du calcul
+18/01/2011 - 22:09:39 	Début du calcul
+18/01/2011 - 22:09:39 	Nombre de positions : 100
+18/01/2011 - 22:09:39 	Simulation inactivée
+18/01/2011 - 22:09:39 	Lecture des conditions initiales
+18/01/2011 - 22:09:39 	Fin du calcul
+18/01/2011 - 22:11:18 	Début du calcul
+18/01/2011 - 22:11:18 	Nombre de positions : 100
+18/01/2011 - 22:11:18 	Simulation inactivée
+18/01/2011 - 22:11:18 	Lecture des conditions initiales
+18/01/2011 - 22:11:20 	Analyse du système incorrecte
+18/01/2011 - 22:11:20 	Abandon du calcul
+18/01/2011 - 22:11:37 	Début du calcul
+18/01/2011 - 22:11:37 	Nombre de positions : 100
+18/01/2011 - 22:11:37 	Simulation inactivée
+18/01/2011 - 22:11:37 	Lecture des conditions initiales
+18/01/2011 - 22:11:39 	Analyse du système incorrecte
+18/01/2011 - 22:11:39 	Abandon du calcul
+18/01/2011 - 22:12:18 	Début du calcul
+18/01/2011 - 22:12:18 	Nombre de positions : 100
+18/01/2011 - 22:12:18 	Simulation inactivée
+18/01/2011 - 22:12:18 	Lecture des conditions initiales
+18/01/2011 - 22:12:18 	Fin du calcul
+18/01/2011 - 22:13:01 	Début du calcul
+18/01/2011 - 22:13:01 	Nombre de positions : 100
+18/01/2011 - 22:13:01 	Simulation inactivée
+18/01/2011 - 22:13:01 	Lecture des conditions initiales
+18/01/2011 - 22:13:01 	Fin du calcul
+18/01/2011 - 22:13:43 	Début du calcul
+18/01/2011 - 22:13:43 	Nombre de positions : 100
+18/01/2011 - 22:13:43 	Simulation inactivée
+18/01/2011 - 22:13:43 	Lecture des conditions initiales
+18/01/2011 - 22:13:43 	Fin du calcul
+18/01/2011 - 22:16:02 	Début du calcul
+18/01/2011 - 22:16:02 	Nombre de positions : 100
+18/01/2011 - 22:16:02 	Simulation inactivée
+18/01/2011 - 22:16:02 	Lecture des conditions initiales
+18/01/2011 - 22:16:02 	Fin du calcul
+18/01/2011 - 22:17:42 	Début du calcul
+18/01/2011 - 22:17:42 	Nombre de positions : 100
+18/01/2011 - 22:17:42 	Simulation inactivée
+18/01/2011 - 22:17:42 	Lecture des conditions initiales
+18/01/2011 - 22:17:42 	Fin du calcul
+18/01/2011 - 22:19:52 	Début du calcul
+18/01/2011 - 22:19:52 	Nombre de positions : 100
+18/01/2011 - 22:19:52 	Simulation inactivée
+18/01/2011 - 22:19:52 	Lecture des conditions initiales
+18/01/2011 - 22:19:52 	Fin du calcul
+18/01/2011 - 22:35:58 	Début du calcul
+18/01/2011 - 22:35:58 	Nombre de positions : 1000
+18/01/2011 - 22:35:58 	Simulation inactivée
+18/01/2011 - 22:35:58 	Lecture des conditions initiales
+18/01/2011 - 22:35:58 	Fin du calcul
+18/01/2011 - 22:39:48 	Début du calcul
+18/01/2011 - 22:39:48 	Nombre de positions : 1000
+18/01/2011 - 22:39:48 	Simulation inactivée
+18/01/2011 - 22:39:48 	Lecture des conditions initiales
+18/01/2011 - 22:39:49 	Fin du calcul
+18/01/2011 - 22:41:44 	Début du calcul
+18/01/2011 - 22:41:44 	Nombre de positions : 1000
+18/01/2011 - 22:41:44 	Simulation inactivée
+18/01/2011 - 22:41:44 	Lecture des conditions initiales
+18/01/2011 - 22:41:45 	Fin du calcul
+18/01/2011 - 22:43:31 	Début du calcul
+18/01/2011 - 22:43:31 	Nombre de positions : 1000
+18/01/2011 - 22:43:31 	Simulation inactivée
+18/01/2011 - 22:43:31 	Lecture des conditions initiales
+18/01/2011 - 22:43:31 	Fin du calcul
+18/01/2011 - 22:48:29 	Début du calcul
+18/01/2011 - 22:48:29 	Nombre de positions : 1000
+18/01/2011 - 22:48:29 	Simulation inactivée
+18/01/2011 - 22:48:29 	Lecture des conditions initiales
+18/01/2011 - 22:48:29 	Fin du calcul
+18/01/2011 - 22:51:25 	Début du calcul
+18/01/2011 - 22:51:25 	Nombre de positions : 1000
+18/01/2011 - 22:51:25 	Simulation inactivée
+18/01/2011 - 22:51:25 	Lecture des conditions initiales
+18/01/2011 - 22:51:25 	Fin du calcul
+18/01/2011 - 22:54:48 	Début du calcul
+18/01/2011 - 22:54:48 	Nombre de positions : 1000
+18/01/2011 - 22:54:48 	Simulation inactivée
+18/01/2011 - 22:54:48 	Lecture des conditions initiales
+18/01/2011 - 22:54:48 	Fin du calcul
+18/01/2011 - 22:59:21 	Début du calcul
+18/01/2011 - 22:59:21 	Nombre de positions : 1000
+18/01/2011 - 22:59:21 	Simulation inactivée
+18/01/2011 - 22:59:21 	Lecture des conditions initiales
+18/01/2011 - 22:59:23 	Fin du calcul
+18/01/2011 - 23:05:09 	Début du calcul
+18/01/2011 - 23:05:09 	Nombre de positions : 1000
+18/01/2011 - 23:05:09 	Simulation inactivée
+18/01/2011 - 23:05:09 	Lecture des conditions initiales
+18/01/2011 - 23:05:11 	Fin du calcul
+18/01/2011 - 23:08:42 	Début du calcul
+18/01/2011 - 23:08:42 	Nombre de positions : 1000
+18/01/2011 - 23:08:42 	Simulation inactivée
+18/01/2011 - 23:08:42 	Lecture des conditions initiales
+18/01/2011 - 23:08:45 	Fin du calcul
+18/01/2011 - 23:09:07 	Début du calcul
+18/01/2011 - 23:09:07 	Nombre de positions : 1000
+18/01/2011 - 23:09:07 	Simulation inactivée
+18/01/2011 - 23:09:07 	Lecture des conditions initiales
+18/01/2011 - 23:09:09 	Fin du calcul
+18/01/2011 - 23:09:56 	Début du calcul
+18/01/2011 - 23:09:56 	Nombre de positions : 1000
+18/01/2011 - 23:09:56 	Simulation inactivée
+18/01/2011 - 23:09:56 	Lecture des conditions initiales
+18/01/2011 - 23:10:02 	Fin du calcul
+18/01/2011 - 23:11:13 	Début du calcul
+18/01/2011 - 23:11:13 	Nombre de positions : 1000
+18/01/2011 - 23:11:13 	Simulation inactivée
+18/01/2011 - 23:11:13 	Lecture des conditions initiales
+18/01/2011 - 23:11:25 	Fin du calcul
+18/01/2011 - 23:11:35 	Début du calcul
+18/01/2011 - 23:11:35 	Nombre de positions : 1000
+18/01/2011 - 23:11:35 	Simulation inactivée
+18/01/2011 - 23:11:35 	Lecture des conditions initiales
+18/01/2011 - 23:11:39 	Fin du calcul
+18/01/2011 - 23:14:40 	Début du calcul
+18/01/2011 - 23:14:40 	Nombre de positions : 1000
+18/01/2011 - 23:14:40 	Simulation inactivée
+18/01/2011 - 23:14:40 	Lecture des conditions initiales
+18/01/2011 - 23:14:45 	Fin du calcul
+18/01/2011 - 23:14:49 	Début du calcul
+18/01/2011 - 23:14:49 	Nombre de positions : 1000
+18/01/2011 - 23:14:49 	Simulation inactivée
+18/01/2011 - 23:14:49 	Lecture des conditions initiales
+18/01/2011 - 23:14:53 	Fin du calcul
+18/01/2011 - 23:14:58 	Début du calcul
+18/01/2011 - 23:14:58 	Nombre de positions : 1000
+18/01/2011 - 23:14:58 	Simulation inactivée
+18/01/2011 - 23:14:58 	Lecture des conditions initiales
+18/01/2011 - 23:15:07 	Fin du calcul
+18/01/2011 - 23:15:11 	Début du calcul
+18/01/2011 - 23:15:11 	Nombre de positions : 1001
+18/01/2011 - 23:15:11 	Simulation inactivée
+18/01/2011 - 23:15:11 	Lecture des conditions initiales
+18/01/2011 - 23:15:18 	Fin du calcul
+18/01/2011 - 23:18:06 	Début du calcul
+18/01/2011 - 23:18:06 	Nombre de positions : 1001
+18/01/2011 - 23:18:06 	Simulation inactivée
+18/01/2011 - 23:18:06 	Lecture des conditions initiales
+18/01/2011 - 23:18:12 	Analyse du système incorrecte
+18/01/2011 - 23:18:12 	Abandon du calcul
+18/01/2011 - 23:18:24 	Début du calcul
+18/01/2011 - 23:18:24 	Nombre de positions : 1001
+18/01/2011 - 23:18:24 	Simulation inactivée
+18/01/2011 - 23:18:24 	Lecture des conditions initiales
+18/01/2011 - 23:18:27 	Analyse du système incorrecte
+18/01/2011 - 23:18:27 	Abandon du calcul
+18/01/2011 - 23:18:43 	Début du calcul
+18/01/2011 - 23:18:43 	Nombre de positions : 1001
+18/01/2011 - 23:18:43 	Simulation inactivée
+18/01/2011 - 23:18:43 	Lecture des conditions initiales
+18/01/2011 - 23:18:46 	Analyse du système incorrecte
+18/01/2011 - 23:18:46 	Abandon du calcul
+18/01/2011 - 23:18:48 	Début du calcul
+18/01/2011 - 23:18:48 	Nombre de positions : 1001
+18/01/2011 - 23:18:48 	Simulation inactivée
+18/01/2011 - 23:18:48 	Lecture des conditions initiales
+18/01/2011 - 23:18:49 	Analyse du système incorrecte
+18/01/2011 - 23:18:49 	Abandon du calcul
+18/01/2011 - 23:18:53 	Début du calcul
+18/01/2011 - 23:18:53 	Nombre de positions : 1001
+18/01/2011 - 23:18:53 	Simulation inactivée
+18/01/2011 - 23:18:53 	Lecture des conditions initiales
+18/01/2011 - 23:18:54 	Analyse du système incorrecte
+18/01/2011 - 23:18:54 	Abandon du calcul
+18/01/2011 - 23:23:34 	Début du calcul
+18/01/2011 - 23:23:34 	Nombre de positions : 1001
+18/01/2011 - 23:23:34 	Simulation inactivée
+18/01/2011 - 23:23:34 	Lecture des conditions initiales
+18/01/2011 - 23:23:40 	Fin du calcul
+18/01/2011 - 23:24:59 	Début du calcul
+18/01/2011 - 23:24:59 	Nombre de positions : 1001
+18/01/2011 - 23:24:59 	Simulation inactivée
+18/01/2011 - 23:24:59 	Lecture des conditions initiales
+18/01/2011 - 23:25:02 	Analyse du système incorrecte
+18/01/2011 - 23:25:02 	Abandon du calcul
+18/01/2011 - 23:26:26 	Début du calcul
+18/01/2011 - 23:26:26 	Nombre de positions : 1001
+18/01/2011 - 23:26:26 	Simulation inactivée
+18/01/2011 - 23:26:26 	Lecture des conditions initiales
+18/01/2011 - 23:26:35 	Fin du calcul
+18/01/2011 - 23:37:23 	Début du calcul
+18/01/2011 - 23:37:23 	Nombre de positions : 1001
+18/01/2011 - 23:37:23 	Simulation inactivée
+18/01/2011 - 23:37:23 	Lecture des conditions initiales
+18/01/2011 - 23:37:25 	Fin du calcul
+18/01/2011 - 23:37:31 	Début du calcul
+18/01/2011 - 23:37:31 	Nombre de positions : 1001
+18/01/2011 - 23:37:31 	Simulation inactivée
+18/01/2011 - 23:37:31 	Lecture des conditions initiales
+18/01/2011 - 23:37:34 	Fin du calcul
+18/01/2011 - 23:38:32 	Début du calcul
+18/01/2011 - 23:38:32 	Nombre de positions : 1001
+18/01/2011 - 23:38:32 	Simulation inactivée
+18/01/2011 - 23:38:32 	Lecture des conditions initiales
+18/01/2011 - 23:38:39 	Fin du calcul
+18/01/2011 - 23:38:41 	Début du calcul
+18/01/2011 - 23:38:41 	Nombre de positions : 1001
+18/01/2011 - 23:38:41 	Simulation inactivée
+18/01/2011 - 23:38:41 	Lecture des conditions initiales
+18/01/2011 - 23:38:50 	Fin du calcul
+18/01/2011 - 23:44:20 	Début du calcul
+18/01/2011 - 23:44:20 	Nombre de positions : 1001
+18/01/2011 - 23:44:20 	Simulation inactivée
+18/01/2011 - 23:44:20 	Lecture des conditions initiales
+18/01/2011 - 23:44:27 	Fin du calcul
+18/01/2011 - 23:45:45 	Début du calcul
+18/01/2011 - 23:45:45 	Nombre de positions : 1001
+18/01/2011 - 23:45:45 	Simulation inactivée
+18/01/2011 - 23:45:45 	Lecture des conditions initiales
+18/01/2011 - 23:45:52 	Fin du calcul
+18/01/2011 - 23:49:43 	Début du calcul
+18/01/2011 - 23:49:43 	Nombre de positions : 1001
+18/01/2011 - 23:49:43 	Simulation inactivée
+18/01/2011 - 23:49:43 	Lecture des conditions initiales
+18/01/2011 - 23:49:54 	Fin du calcul
+18/01/2011 - 23:51:36 	Début du calcul
+18/01/2011 - 23:51:36 	Nombre de positions : 1001
+18/01/2011 - 23:51:36 	Simulation inactivée
+18/01/2011 - 23:51:36 	Lecture des conditions initiales
+18/01/2011 - 23:51:43 	Fin du calcul
+18/01/2011 - 23:52:16 	Début du calcul
+18/01/2011 - 23:52:16 	Nombre de positions : 1001
+18/01/2011 - 23:52:16 	Simulation inactivée
+18/01/2011 - 23:52:16 	Lecture des conditions initiales
+18/01/2011 - 23:52:23 	Fin du calcul
+18/01/2011 - 23:57:02 	Début du calcul
+18/01/2011 - 23:57:02 	Nombre de positions : 1001
+18/01/2011 - 23:57:02 	Simulation inactivée
+18/01/2011 - 23:57:02 	Lecture des conditions initiales
+18/01/2011 - 23:57:10 	Fin du calcul
+19/01/2011 - 00:04:20 	Début du calcul
+19/01/2011 - 00:04:20 	Nombre de positions : 1001
+19/01/2011 - 00:04:20 	Simulation inactivée
+19/01/2011 - 00:04:20 	Lecture des conditions initiales
+19/01/2011 - 00:04:22 	Fin du calcul
+19/01/2011 - 00:05:11 	Début du calcul
+19/01/2011 - 00:05:11 	Nombre de positions : 1001
+19/01/2011 - 00:05:11 	Simulation inactivée
+19/01/2011 - 00:05:11 	Lecture des conditions initiales
+19/01/2011 - 00:05:13 	Fin du calcul
+19/01/2011 - 00:08:44 	Début du calcul
+19/01/2011 - 00:08:44 	Nombre de positions : 1001
+19/01/2011 - 00:08:44 	Simulation inactivée
+19/01/2011 - 00:08:44 	Lecture des conditions initiales
+19/01/2011 - 00:08:52 	Fin du calcul
+19/01/2011 - 00:08:56 	Début du calcul
+19/01/2011 - 00:08:56 	Nombre de positions : 1001
+19/01/2011 - 00:08:56 	Simulation inactivée
+19/01/2011 - 00:08:56 	Lecture des conditions initiales
+19/01/2011 - 00:09:03 	Fin du calcul
+19/01/2011 - 00:09:10 	Début du calcul
+19/01/2011 - 00:09:10 	Nombre de positions : 1001
+19/01/2011 - 00:09:10 	Simulation inactivée
+19/01/2011 - 00:09:10 	Lecture des conditions initiales
+19/01/2011 - 00:09:21 	Fin du calcul
+19/01/2011 - 00:09:23 	Début du calcul
+19/01/2011 - 00:09:23 	Nombre de positions : 1001
+19/01/2011 - 00:09:23 	Simulation inactivée
+19/01/2011 - 00:09:23 	Lecture des conditions initiales
+19/01/2011 - 00:09:32 	Fin du calcul
+19/01/2011 - 00:10:00 	Début du calcul
+19/01/2011 - 00:10:00 	Nombre de positions : 1001
+19/01/2011 - 00:10:00 	Simulation inactivée
+19/01/2011 - 00:10:00 	Lecture des conditions initiales
+19/01/2011 - 00:10:09 	Fin du calcul
+19/01/2011 - 00:10:13 	Début du calcul
+19/01/2011 - 00:10:13 	Nombre de positions : 1001
+19/01/2011 - 00:10:13 	Simulation inactivée
+19/01/2011 - 00:10:13 	Lecture des conditions initiales
+19/01/2011 - 00:10:24 	Fin du calcul
+19/01/2011 - 00:10:27 	Début du calcul
+19/01/2011 - 00:10:27 	Nombre de positions : 1001
+19/01/2011 - 00:10:27 	Simulation inactivée
+19/01/2011 - 00:10:27 	Lecture des conditions initiales
+19/01/2011 - 00:10:36 	Fin du calcul
+19/01/2011 - 00:11:34 	Début du calcul
+19/01/2011 - 00:11:34 	Nombre de positions : 1001
+19/01/2011 - 00:11:34 	Simulation inactivée
+19/01/2011 - 00:11:34 	Lecture des conditions initiales
+19/01/2011 - 00:11:40 	Fin du calcul
+19/01/2011 - 00:11:44 	Début du calcul
+19/01/2011 - 00:11:44 	Nombre de positions : 1001
+19/01/2011 - 00:11:44 	Simulation inactivée
+19/01/2011 - 00:11:44 	Lecture des conditions initiales
+19/01/2011 - 00:11:56 	Fin du calcul
+19/01/2011 - 00:11:59 	Début du calcul
+19/01/2011 - 00:11:59 	Nombre de positions : 1001
+19/01/2011 - 00:11:59 	Simulation inactivée
+19/01/2011 - 00:11:59 	Lecture des conditions initiales
+19/01/2011 - 00:12:09 	Fin du calcul
+19/01/2011 - 00:12:50 	Début du calcul
+19/01/2011 - 00:12:50 	Nombre de positions : 1001
+19/01/2011 - 00:12:50 	Simulation inactivée
+19/01/2011 - 00:12:50 	Lecture des conditions initiales
+19/01/2011 - 00:13:04 	Fin du calcul
+19/01/2011 - 00:13:20 	Début du calcul
+19/01/2011 - 00:13:20 	Nombre de positions : 1001
+19/01/2011 - 00:13:20 	Simulation inactivée
+19/01/2011 - 00:13:20 	Lecture des conditions initiales
+19/01/2011 - 00:13:30 	Fin du calcul
+19/01/2011 - 00:18:03 	Début du calcul
+19/01/2011 - 00:18:03 	Nombre de positions : 1001
+19/01/2011 - 00:18:03 	Simulation inactivée
+19/01/2011 - 00:18:03 	Lecture des conditions initiales
+19/01/2011 - 00:18:13 	Fin du calcul
+19/01/2011 - 00:18:17 	Début du calcul
+19/01/2011 - 00:18:17 	Nombre de positions : 1001
+19/01/2011 - 00:18:17 	Simulation inactivée
+19/01/2011 - 00:18:17 	Lecture des conditions initiales
+19/01/2011 - 00:18:22 	Fin du calcul
+19/01/2011 - 00:19:32 	Début du calcul
+19/01/2011 - 00:19:32 	Nombre de positions : 1001
+19/01/2011 - 00:19:32 	Simulation inactivée
+19/01/2011 - 00:19:32 	Lecture des conditions initiales
+19/01/2011 - 00:19:45 	Fin du calcul
+19/01/2011 - 00:20:56 	Début du calcul
+19/01/2011 - 00:20:56 	Nombre de positions : 1001
+19/01/2011 - 00:20:56 	Simulation inactivée
+19/01/2011 - 00:20:56 	Lecture des conditions initiales
+19/01/2011 - 00:21:10 	Fin du calcul
+19/01/2011 - 00:23:30 	Début du calcul
+19/01/2011 - 00:23:30 	Nombre de positions : 1001
+19/01/2011 - 00:23:30 	Simulation inactivée
+19/01/2011 - 00:23:30 	Lecture des conditions initiales
+19/01/2011 - 00:23:42 	Fin du calcul
+19/01/2011 - 00:24:19 	Début du calcul
+19/01/2011 - 00:24:19 	Nombre de positions : 1001
+19/01/2011 - 00:24:19 	Simulation inactivée
+19/01/2011 - 00:24:19 	Lecture des conditions initiales
+19/01/2011 - 00:24:32 	Fin du calcul
+19/01/2011 - 00:25:44 	Début du calcul
+19/01/2011 - 00:25:44 	Nombre de positions : 1001
+19/01/2011 - 00:25:44 	Simulation inactivée
+19/01/2011 - 00:25:44 	Lecture des conditions initiales
+19/01/2011 - 00:25:57 	Fin du calcul
+19/01/2011 - 00:27:04 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 08:43:52 	===== Ouverture de session =====
+19/01/2011 - 08:45:57 	Début du calcul
+19/01/2011 - 08:45:57 	Nombre de positions : 1001
+19/01/2011 - 08:45:57 	Simulation inactivée
+19/01/2011 - 08:45:57 	Lecture des conditions initiales
+19/01/2011 - 08:46:09 	Fin du calcul
+19/01/2011 - 09:24:55 	Début du calcul
+19/01/2011 - 09:24:55 	Nombre de positions : 1001
+19/01/2011 - 09:24:55 	Simulation inactivée
+19/01/2011 - 09:24:55 	Lecture des conditions initiales
+19/01/2011 - 09:25:07 	Fin du calcul
+19/01/2011 - 09:26:10 	Début du calcul
+19/01/2011 - 09:26:10 	Nombre de positions : 1001
+19/01/2011 - 09:26:10 	Simulation inactivée
+19/01/2011 - 09:26:10 	Lecture des conditions initiales
+19/01/2011 - 09:26:11 	Analyse du système incorrecte
+19/01/2011 - 09:26:11 	Abandon du calcul
+19/01/2011 - 09:26:26 	Début du calcul
+19/01/2011 - 09:26:26 	Nombre de positions : 1001
+19/01/2011 - 09:26:26 	Simulation inactivée
+19/01/2011 - 09:26:26 	Lecture des conditions initiales
+19/01/2011 - 09:26:27 	Analyse du système incorrecte
+19/01/2011 - 09:26:27 	Abandon du calcul
+19/01/2011 - 09:26:38 	Début du calcul
+19/01/2011 - 09:26:38 	Nombre de positions : 1001
+19/01/2011 - 09:26:38 	Simulation inactivée
+19/01/2011 - 09:26:38 	Lecture des conditions initiales
+19/01/2011 - 09:26:40 	Analyse du système incorrecte
+19/01/2011 - 09:26:40 	Abandon du calcul
+19/01/2011 - 09:26:43 	Début du calcul
+19/01/2011 - 09:26:43 	Nombre de positions : 1001
+19/01/2011 - 09:26:43 	Simulation inactivée
+19/01/2011 - 09:26:43 	Lecture des conditions initiales
+19/01/2011 - 09:26:44 	Analyse du système incorrecte
+19/01/2011 - 09:26:44 	Abandon du calcul
+19/01/2011 - 09:26:51 	Début du calcul
+19/01/2011 - 09:26:51 	Nombre de positions : 1001
+19/01/2011 - 09:26:51 	Simulation inactivée
+19/01/2011 - 09:26:51 	Lecture des conditions initiales
+19/01/2011 - 09:26:51 	Analyse du système incorrecte
+19/01/2011 - 09:26:51 	Abandon du calcul
+19/01/2011 - 09:26:55 	Début du calcul
+19/01/2011 - 09:26:55 	Nombre de positions : 1001
+19/01/2011 - 09:26:55 	Simulation inactivée
+19/01/2011 - 09:26:55 	Lecture des conditions initiales
+19/01/2011 - 09:26:56 	Analyse du système incorrecte
+19/01/2011 - 09:26:56 	Abandon du calcul
+19/01/2011 - 09:27:33 	Début du calcul
+19/01/2011 - 09:27:33 	Nombre de positions : 1001
+19/01/2011 - 09:27:33 	Simulation inactivée
+19/01/2011 - 09:27:33 	Lecture des conditions initiales
+19/01/2011 - 09:27:34 	Analyse du système incorrecte
+19/01/2011 - 09:27:34 	Abandon du calcul
+19/01/2011 - 09:27:45 	Début du calcul
+19/01/2011 - 09:27:45 	Nombre de positions : 1001
+19/01/2011 - 09:27:45 	Simulation inactivée
+19/01/2011 - 09:27:45 	Lecture des conditions initiales
+19/01/2011 - 09:27:46 	Analyse du système incorrecte
+19/01/2011 - 09:27:46 	Abandon du calcul
+19/01/2011 - 09:27:50 	Début du calcul
+19/01/2011 - 09:27:50 	Nombre de positions : 1001
+19/01/2011 - 09:27:50 	Simulation inactivée
+19/01/2011 - 09:27:50 	Lecture des conditions initiales
+19/01/2011 - 09:27:52 	Analyse du système incorrecte
+19/01/2011 - 09:27:52 	Abandon du calcul
+19/01/2011 - 09:29:15 	Début du calcul
+19/01/2011 - 09:29:15 	Nombre de positions : 1001
+19/01/2011 - 09:29:15 	Simulation inactivée
+19/01/2011 - 09:29:15 	Lecture des conditions initiales
+19/01/2011 - 09:29:17 	Analyse du système incorrecte
+19/01/2011 - 09:29:17 	Abandon du calcul
+19/01/2011 - 09:29:22 	Début du calcul
+19/01/2011 - 09:29:22 	Nombre de positions : 1001
+19/01/2011 - 09:29:22 	Simulation inactivée
+19/01/2011 - 09:29:22 	Lecture des conditions initiales
+19/01/2011 - 09:29:23 	Analyse du système incorrecte
+19/01/2011 - 09:29:23 	Abandon du calcul
+19/01/2011 - 09:29:28 	Début du calcul
+19/01/2011 - 09:29:28 	Nombre de positions : 1001
+19/01/2011 - 09:29:28 	Simulation inactivée
+19/01/2011 - 09:29:28 	Lecture des conditions initiales
+19/01/2011 - 09:29:29 	Analyse du système incorrecte
+19/01/2011 - 09:29:29 	Abandon du calcul
+19/01/2011 - 09:29:34 	Début du calcul
+19/01/2011 - 09:29:34 	Nombre de positions : 1001
+19/01/2011 - 09:29:34 	Simulation inactivée
+19/01/2011 - 09:29:34 	Lecture des conditions initiales
+19/01/2011 - 09:29:35 	Analyse du système incorrecte
+19/01/2011 - 09:29:35 	Abandon du calcul
+19/01/2011 - 09:29:38 	Début du calcul
+19/01/2011 - 09:29:38 	Nombre de positions : 1001
+19/01/2011 - 09:29:38 	Simulation inactivée
+19/01/2011 - 09:29:38 	Lecture des conditions initiales
+19/01/2011 - 09:29:39 	Analyse du système incorrecte
+19/01/2011 - 09:29:39 	Abandon du calcul
+19/01/2011 - 09:30:35 	Début du calcul
+19/01/2011 - 09:30:35 	Nombre de positions : 1001
+19/01/2011 - 09:30:35 	Simulation inactivée
+19/01/2011 - 09:30:35 	Lecture des conditions initiales
+19/01/2011 - 09:30:37 	Analyse du système incorrecte
+19/01/2011 - 09:30:37 	Abandon du calcul
+19/01/2011 - 09:32:49 	Début du calcul
+19/01/2011 - 09:32:49 	Nombre de positions : 1001
+19/01/2011 - 09:32:49 	Simulation inactivée
+19/01/2011 - 09:32:49 	Lecture des conditions initiales
+19/01/2011 - 09:32:50 	Analyse du système incorrecte
+19/01/2011 - 09:32:50 	Abandon du calcul
+19/01/2011 - 09:33:25 	Début du calcul
+19/01/2011 - 09:33:25 	Nombre de positions : 1001
+19/01/2011 - 09:33:25 	Simulation inactivée
+19/01/2011 - 09:33:25 	Lecture des conditions initiales
+19/01/2011 - 09:33:26 	Analyse du système incorrecte
+19/01/2011 - 09:33:26 	Abandon du calcul
+19/01/2011 - 09:37:58 	Début du calcul
+19/01/2011 - 09:37:58 	Nombre de positions : 1001
+19/01/2011 - 09:37:58 	Simulation inactivée
+19/01/2011 - 09:37:58 	Lecture des conditions initiales
+19/01/2011 - 09:38:12 	Fin du calcul
+19/01/2011 - 09:40:54 	Début du calcul
+19/01/2011 - 09:40:54 	Nombre de positions : 1001
+19/01/2011 - 09:40:54 	Simulation inactivée
+19/01/2011 - 09:40:54 	Lecture des conditions initiales
+19/01/2011 - 09:41:07 	Fin du calcul
+19/01/2011 - 09:42:22 	Début du calcul
+19/01/2011 - 09:42:22 	Nombre de positions : 1001
+19/01/2011 - 09:42:22 	Simulation inactivée
+19/01/2011 - 09:42:22 	Lecture des conditions initiales
+19/01/2011 - 09:42:37 	Fin du calcul
+19/01/2011 - 09:47:34 	Début du calcul
+19/01/2011 - 09:47:34 	Nombre de positions : 1001
+19/01/2011 - 09:47:34 	Simulation inactivée
+19/01/2011 - 09:47:34 	Lecture des conditions initiales
+19/01/2011 - 09:47:49 	Fin du calcul
+19/01/2011 - 09:49:46 	Début du calcul
+19/01/2011 - 09:49:46 	Nombre de positions : 1001
+19/01/2011 - 09:49:46 	Simulation inactivée
+19/01/2011 - 09:49:46 	Lecture des conditions initiales
+19/01/2011 - 09:49:59 	Fin du calcul
+19/01/2011 - 09:53:55 	Début du calcul
+19/01/2011 - 09:53:55 	Nombre de positions : 1001
+19/01/2011 - 09:53:55 	Simulation inactivée
+19/01/2011 - 09:53:55 	Lecture des conditions initiales
+19/01/2011 - 09:54:09 	Fin du calcul
+19/01/2011 - 10:03:40 	Début du calcul
+19/01/2011 - 10:03:40 	Nombre de positions : 1001
+19/01/2011 - 10:03:40 	Simulation inactivée
+19/01/2011 - 10:03:40 	Lecture des conditions initiales
+
+===============Init Logging================
+
+19/01/2011 - 10:49:29 	===== Ouverture de session =====
+19/01/2011 - 10:58:54 	Début du calcul
+19/01/2011 - 10:58:54 	Nombre de positions : 1001
+19/01/2011 - 10:58:54 	Simulation inactivée
+19/01/2011 - 10:58:54 	Lecture des conditions initiales
+19/01/2011 - 10:59:07 	Fin du calcul
+19/01/2011 - 11:08:12 	Début du calcul
+19/01/2011 - 11:08:12 	Nombre de positions : 1001
+19/01/2011 - 11:08:12 	Simulation inactivée
+19/01/2011 - 11:08:12 	Lecture des conditions initiales
+19/01/2011 - 11:08:18 	Fin du calcul
+19/01/2011 - 11:09:39 	Début du calcul
+19/01/2011 - 11:09:39 	Nombre de positions : 1001
+19/01/2011 - 11:09:39 	Simulation inactivée
+19/01/2011 - 11:09:39 	Lecture des conditions initiales
+19/01/2011 - 11:09:41 	Analyse du système incorrecte
+19/01/2011 - 11:09:41 	Abandon du calcul
+19/01/2011 - 11:10:42 	Début du calcul
+19/01/2011 - 11:10:42 	Nombre de positions : 1001
+19/01/2011 - 11:10:42 	Simulation inactivée
+19/01/2011 - 11:10:42 	Lecture des conditions initiales
+19/01/2011 - 11:10:56 	Fin du calcul
+19/01/2011 - 11:18:01 	Début du calcul
+19/01/2011 - 11:18:01 	Nombre de positions : 1001
+19/01/2011 - 11:18:01 	Simulation inactivée
+19/01/2011 - 11:18:01 	Lecture des conditions initiales
+19/01/2011 - 11:18:14 	Fin du calcul
+19/01/2011 - 11:20:45 	Début du calcul
+19/01/2011 - 11:20:45 	Nombre de positions : 1001
+19/01/2011 - 11:20:45 	Simulation inactivée
+19/01/2011 - 11:20:45 	Lecture des conditions initiales
+19/01/2011 - 11:20:58 	Fin du calcul
+19/01/2011 - 11:42:28 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 11:43:53 	===== Ouverture de session =====
+19/01/2011 - 11:50:16 	Début du calcul
+19/01/2011 - 11:50:16 	Nombre de positions : 1001
+19/01/2011 - 11:50:16 	Simulation inactivée
+19/01/2011 - 11:50:16 	Lecture des conditions initiales
+19/01/2011 - 11:50:20 	Fin du calcul
+19/01/2011 - 11:51:20 	Début du calcul
+19/01/2011 - 11:51:20 	Nombre de positions : 1001
+19/01/2011 - 11:51:20 	Simulation inactivée
+19/01/2011 - 11:51:20 	Lecture des conditions initiales
+19/01/2011 - 11:51:25 	Fin du calcul
+19/01/2011 - 11:57:02 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 11:58:53 	===== Ouverture de session =====
+19/01/2011 - 12:28:37 	Début du calcul
+19/01/2011 - 12:28:37 	Nombre de positions : 1001
+19/01/2011 - 12:28:37 	Simulation inactivée
+19/01/2011 - 12:28:37 	Lecture des conditions initiales
+19/01/2011 - 12:28:41 	Fin du calcul
+19/01/2011 - 12:32:07 	Début du calcul
+19/01/2011 - 12:32:07 	Nombre de positions : 1001
+19/01/2011 - 12:32:07 	Simulation inactivée
+19/01/2011 - 12:32:07 	Lecture des conditions initiales
+19/01/2011 - 12:32:11 	Fin du calcul
+19/01/2011 - 12:34:09 	Début du calcul
+19/01/2011 - 12:34:09 	Nombre de positions : 1001
+19/01/2011 - 12:34:09 	Simulation inactivée
+19/01/2011 - 12:34:09 	Lecture des conditions initiales
+19/01/2011 - 12:34:14 	Fin du calcul
+19/01/2011 - 12:35:03 	Début du calcul
+19/01/2011 - 12:35:03 	Nombre de positions : 1001
+19/01/2011 - 12:35:03 	Simulation inactivée
+19/01/2011 - 12:35:03 	Lecture des conditions initiales
+19/01/2011 - 12:35:08 	Fin du calcul
+19/01/2011 - 12:37:22 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 12:49:15 	===== Ouverture de session =====
+19/01/2011 - 12:49:40 	Début du calcul
+19/01/2011 - 12:49:40 	Nombre de positions : 1001
+19/01/2011 - 12:49:40 	Simulation inactivée
+19/01/2011 - 12:49:40 	Lecture des conditions initiales
+19/01/2011 - 12:49:45 	Fin du calcul
+19/01/2011 - 13:01:08 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 13:02:19 	===== Ouverture de session =====
+19/01/2011 - 13:02:47 	Début du calcul
+19/01/2011 - 13:02:47 	Nombre de positions : 1001
+19/01/2011 - 13:02:47 	Simulation inactivée
+19/01/2011 - 13:02:47 	Lecture des conditions initiales
+19/01/2011 - 13:02:51 	Fin du calcul
+19/01/2011 - 13:07:34 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 19:19:52 	===== Ouverture de session =====
+19/01/2011 - 19:33:07 	Début du calcul
+19/01/2011 - 19:33:07 	Nombre de positions : 1001
+19/01/2011 - 19:33:07 	Simulation inactivée
+19/01/2011 - 19:33:07 	Lecture des conditions initiales
+19/01/2011 - 19:33:12 	Fin du calcul
+19/01/2011 - 19:33:48 	Début du calcul
+19/01/2011 - 19:33:48 	Nombre de positions : 1001
+19/01/2011 - 19:33:48 	Simulation inactivée
+19/01/2011 - 19:33:48 	Lecture des conditions initiales
+19/01/2011 - 19:33:53 	Fin du calcul
+19/01/2011 - 19:34:24 	Début du calcul
+19/01/2011 - 19:34:24 	Nombre de positions : 1001
+19/01/2011 - 19:34:24 	Simulation inactivée
+19/01/2011 - 19:34:24 	Lecture des conditions initiales
+19/01/2011 - 19:34:28 	Fin du calcul
+19/01/2011 - 19:35:05 	Début du calcul
+19/01/2011 - 19:35:05 	Nombre de positions : 1001
+19/01/2011 - 19:35:05 	Simulation inactivée
+19/01/2011 - 19:35:05 	Lecture des conditions initiales
+19/01/2011 - 19:35:10 	Fin du calcul
+19/01/2011 - 20:34:22 	Début du calcul
+19/01/2011 - 20:34:22 	Nombre de positions : 1001
+19/01/2011 - 20:34:22 	Simulation inactivée
+19/01/2011 - 20:34:22 	Lecture des conditions initiales
+19/01/2011 - 20:34:24 	Analyse du système incorrecte
+19/01/2011 - 20:34:24 	Abandon du calcul
+19/01/2011 - 20:38:28 	Début du calcul
+19/01/2011 - 20:38:28 	Nombre de positions : 1001
+19/01/2011 - 20:38:28 	Simulation inactivée
+19/01/2011 - 20:38:28 	Lecture des conditions initiales
+19/01/2011 - 20:38:30 	Analyse du système incorrecte
+19/01/2011 - 20:38:30 	Abandon du calcul
+19/01/2011 - 20:38:51 	Début du calcul
+19/01/2011 - 20:38:51 	Nombre de positions : 1001
+19/01/2011 - 20:38:51 	Simulation inactivée
+19/01/2011 - 20:38:51 	Lecture des conditions initiales
+19/01/2011 - 20:38:52 	Analyse du système incorrecte
+19/01/2011 - 20:38:52 	Abandon du calcul
+19/01/2011 - 20:40:06 	Début du calcul
+19/01/2011 - 20:40:06 	Nombre de positions : 1001
+19/01/2011 - 20:40:06 	Simulation inactivée
+19/01/2011 - 20:40:06 	Lecture des conditions initiales
+19/01/2011 - 20:40:08 	Analyse du système incorrecte
+19/01/2011 - 20:40:08 	Abandon du calcul
+19/01/2011 - 20:40:12 	Début du calcul
+19/01/2011 - 20:40:12 	Nombre de positions : 1001
+19/01/2011 - 20:40:12 	Simulation inactivée
+19/01/2011 - 20:40:12 	Lecture des conditions initiales
+19/01/2011 - 20:40:15 	Analyse du système incorrecte
+19/01/2011 - 20:40:15 	Abandon du calcul
+19/01/2011 - 20:40:54 	Début du calcul
+19/01/2011 - 20:40:54 	Nombre de positions : 1001
+19/01/2011 - 20:40:54 	Simulation inactivée
+19/01/2011 - 20:40:54 	Lecture des conditions initiales
+19/01/2011 - 20:40:57 	Analyse du système incorrecte
+19/01/2011 - 20:40:57 	Abandon du calcul
+19/01/2011 - 20:58:17 	Début du calcul
+19/01/2011 - 20:58:17 	Nombre de positions : 1001
+19/01/2011 - 20:58:17 	Simulation inactivée
+19/01/2011 - 20:58:17 	Lecture des conditions initiales
+19/01/2011 - 20:58:19 	Analyse du système incorrecte
+19/01/2011 - 20:58:19 	Abandon du calcul
+19/01/2011 - 21:03:05 	Début du calcul
+19/01/2011 - 21:03:05 	Nombre de positions : 1001
+19/01/2011 - 21:03:05 	Simulation inactivée
+19/01/2011 - 21:03:05 	Lecture des conditions initiales
+19/01/2011 - 21:03:07 	Analyse du système incorrecte
+19/01/2011 - 21:03:07 	Abandon du calcul
+19/01/2011 - 21:04:15 	Début du calcul
+19/01/2011 - 21:04:15 	Nombre de positions : 1001
+19/01/2011 - 21:04:15 	Simulation inactivée
+19/01/2011 - 21:04:15 	Lecture des conditions initiales
+19/01/2011 - 21:04:16 	Analyse du système incorrecte
+19/01/2011 - 21:04:16 	Abandon du calcul
+19/01/2011 - 21:06:25 	Début du calcul
+19/01/2011 - 21:06:25 	Nombre de positions : 1001
+19/01/2011 - 21:06:25 	Simulation inactivée
+19/01/2011 - 21:06:25 	Lecture des conditions initiales
+19/01/2011 - 21:06:27 	Analyse du système incorrecte
+19/01/2011 - 21:06:27 	Abandon du calcul
+19/01/2011 - 21:06:45 	Début du calcul
+19/01/2011 - 21:06:45 	Nombre de positions : 1001
+19/01/2011 - 21:06:45 	Simulation inactivée
+19/01/2011 - 21:06:45 	Lecture des conditions initiales
+19/01/2011 - 21:06:46 	Analyse du système incorrecte
+19/01/2011 - 21:06:46 	Abandon du calcul
+19/01/2011 - 21:06:50 	Début du calcul
+19/01/2011 - 21:06:50 	Nombre de positions : 1001
+19/01/2011 - 21:06:50 	Simulation inactivée
+19/01/2011 - 21:06:50 	Lecture des conditions initiales
+19/01/2011 - 21:06:51 	Analyse du système incorrecte
+19/01/2011 - 21:06:51 	Abandon du calcul
+19/01/2011 - 21:08:03 	Début du calcul
+19/01/2011 - 21:08:03 	Nombre de positions : 1001
+19/01/2011 - 21:08:03 	Simulation inactivée
+19/01/2011 - 21:08:03 	Lecture des conditions initiales
+19/01/2011 - 21:08:04 	Analyse du système incorrecte
+19/01/2011 - 21:08:04 	Abandon du calcul
+19/01/2011 - 21:08:25 	Début du calcul
+19/01/2011 - 21:08:25 	Nombre de positions : 1001
+19/01/2011 - 21:08:25 	Simulation inactivée
+19/01/2011 - 21:08:25 	Lecture des conditions initiales
+19/01/2011 - 21:08:26 	Analyse du système incorrecte
+19/01/2011 - 21:08:26 	Abandon du calcul
+19/01/2011 - 21:09:54 	Début du calcul
+19/01/2011 - 21:09:54 	Nombre de positions : 1001
+19/01/2011 - 21:09:54 	Simulation inactivée
+19/01/2011 - 21:09:54 	Lecture des conditions initiales
+19/01/2011 - 21:09:54 	Fin du calcul
+19/01/2011 - 21:10:41 	Début du calcul
+19/01/2011 - 21:10:41 	Nombre de positions : 1001
+19/01/2011 - 21:10:41 	Simulation inactivée
+19/01/2011 - 21:10:41 	Lecture des conditions initiales
+19/01/2011 - 21:10:43 	Fin du calcul
+19/01/2011 - 21:17:41 	Début du calcul
+19/01/2011 - 21:17:41 	Nombre de positions : 1001
+19/01/2011 - 21:17:41 	Simulation inactivée
+19/01/2011 - 21:17:41 	Lecture des conditions initiales
+19/01/2011 - 21:17:44 	Fin du calcul
+19/01/2011 - 21:18:38 	Début du calcul
+19/01/2011 - 21:18:38 	Nombre de positions : 1001
+19/01/2011 - 21:18:38 	Simulation inactivée
+19/01/2011 - 21:18:38 	Lecture des conditions initiales
+19/01/2011 - 21:18:40 	Fin du calcul
+19/01/2011 - 21:21:42 	Début du calcul
+19/01/2011 - 21:21:42 	Nombre de positions : 1001
+19/01/2011 - 21:21:42 	Simulation inactivée
+19/01/2011 - 21:21:42 	Lecture des conditions initiales
+19/01/2011 - 21:21:45 	Fin du calcul
+19/01/2011 - 21:23:49 	Début du calcul
+19/01/2011 - 21:23:49 	Nombre de positions : 1001
+19/01/2011 - 21:23:49 	Simulation inactivée
+19/01/2011 - 21:23:49 	Lecture des conditions initiales
+19/01/2011 - 21:23:52 	Fin du calcul
+19/01/2011 - 21:25:37 	Début du calcul
+19/01/2011 - 21:25:37 	Nombre de positions : 1001
+19/01/2011 - 21:25:37 	Simulation inactivée
+19/01/2011 - 21:25:37 	Lecture des conditions initiales
+19/01/2011 - 21:25:39 	Fin du calcul
+19/01/2011 - 21:32:47 	Début du calcul
+19/01/2011 - 21:32:47 	Nombre de positions : 1001
+19/01/2011 - 21:32:47 	Simulation inactivée
+19/01/2011 - 21:32:47 	Lecture des conditions initiales
+19/01/2011 - 21:32:50 	Fin du calcul
+19/01/2011 - 21:33:45 	Début du calcul
+19/01/2011 - 21:33:45 	Nombre de positions : 1001
+19/01/2011 - 21:33:45 	Simulation inactivée
+19/01/2011 - 21:33:45 	Lecture des conditions initiales
+19/01/2011 - 21:33:47 	Fin du calcul
+19/01/2011 - 21:40:11 	Début du calcul
+19/01/2011 - 21:40:11 	Nombre de positions : 1001
+19/01/2011 - 21:40:11 	Simulation inactivée
+19/01/2011 - 21:40:11 	Lecture des conditions initiales
+19/01/2011 - 21:40:13 	Fin du calcul
+19/01/2011 - 21:41:24 	Début du calcul
+19/01/2011 - 21:41:24 	Nombre de positions : 1001
+19/01/2011 - 21:41:24 	Simulation inactivée
+19/01/2011 - 21:41:24 	Lecture des conditions initiales
+19/01/2011 - 21:41:27 	Fin du calcul
+19/01/2011 - 21:46:14 	Début du calcul
+19/01/2011 - 21:46:14 	Nombre de positions : 1001
+19/01/2011 - 21:46:14 	Simulation inactivée
+19/01/2011 - 21:46:14 	Lecture des conditions initiales
+19/01/2011 - 21:46:17 	Fin du calcul
+19/01/2011 - 21:48:20 	Début du calcul
+19/01/2011 - 21:48:20 	Nombre de positions : 1001
+19/01/2011 - 21:48:20 	Simulation inactivée
+19/01/2011 - 21:48:20 	Lecture des conditions initiales
+19/01/2011 - 21:48:23 	Fin du calcul
+19/01/2011 - 21:50:28 	Début du calcul
+19/01/2011 - 21:50:28 	Nombre de positions : 1001
+19/01/2011 - 21:50:28 	Simulation inactivée
+19/01/2011 - 21:50:28 	Lecture des conditions initiales
+19/01/2011 - 21:50:31 	Fin du calcul
+19/01/2011 - 21:53:26 	Début du calcul
+19/01/2011 - 21:53:26 	Nombre de positions : 1001
+19/01/2011 - 21:53:26 	Simulation inactivée
+19/01/2011 - 21:53:26 	Lecture des conditions initiales
+19/01/2011 - 21:53:28 	Fin du calcul
+19/01/2011 - 21:56:15 	Début du calcul
+19/01/2011 - 21:56:15 	Nombre de positions : 1001
+19/01/2011 - 21:56:15 	Simulation inactivée
+19/01/2011 - 21:56:15 	Lecture des conditions initiales
+19/01/2011 - 21:56:18 	Fin du calcul
+19/01/2011 - 21:58:06 	Début du calcul
+19/01/2011 - 21:58:06 	Nombre de positions : 1001
+19/01/2011 - 21:58:06 	Simulation inactivée
+19/01/2011 - 21:58:06 	Lecture des conditions initiales
+19/01/2011 - 21:58:08 	Fin du calcul
+19/01/2011 - 21:59:56 	Début du calcul
+19/01/2011 - 21:59:56 	Nombre de positions : 1001
+19/01/2011 - 21:59:56 	Simulation inactivée
+19/01/2011 - 21:59:56 	Lecture des conditions initiales
+19/01/2011 - 21:59:59 	Fin du calcul
+19/01/2011 - 22:02:16 	Début du calcul
+19/01/2011 - 22:02:16 	Nombre de positions : 1001
+19/01/2011 - 22:02:16 	Simulation inactivée
+19/01/2011 - 22:02:16 	Lecture des conditions initiales
+19/01/2011 - 22:02:18 	Fin du calcul
+19/01/2011 - 22:04:06 	Début du calcul
+19/01/2011 - 22:04:06 	Nombre de positions : 1001
+19/01/2011 - 22:04:06 	Simulation inactivée
+19/01/2011 - 22:04:06 	Lecture des conditions initiales
+19/01/2011 - 22:04:08 	Fin du calcul
+19/01/2011 - 22:05:39 	Début du calcul
+19/01/2011 - 22:05:39 	Nombre de positions : 1001
+19/01/2011 - 22:05:39 	Simulation inactivée
+19/01/2011 - 22:05:39 	Lecture des conditions initiales
+19/01/2011 - 22:05:42 	Fin du calcul
+19/01/2011 - 22:07:49 	Début du calcul
+19/01/2011 - 22:07:49 	Nombre de positions : 1001
+19/01/2011 - 22:07:49 	Simulation inactivée
+19/01/2011 - 22:07:49 	Lecture des conditions initiales
+19/01/2011 - 22:07:52 	Fin du calcul
+19/01/2011 - 22:11:56 	Début du calcul
+19/01/2011 - 22:11:56 	Nombre de positions : 1001
+19/01/2011 - 22:11:56 	Simulation inactivée
+19/01/2011 - 22:11:56 	Lecture des conditions initiales
+19/01/2011 - 22:11:59 	Fin du calcul
+19/01/2011 - 22:13:32 	Début du calcul
+19/01/2011 - 22:13:32 	Nombre de positions : 1001
+19/01/2011 - 22:13:32 	Simulation inactivée
+19/01/2011 - 22:13:32 	Lecture des conditions initiales
+19/01/2011 - 22:13:34 	Fin du calcul
+19/01/2011 - 22:17:04 	Début du calcul
+19/01/2011 - 22:17:04 	Nombre de positions : 1001
+19/01/2011 - 22:17:04 	Simulation inactivée
+19/01/2011 - 22:17:04 	Lecture des conditions initiales
+19/01/2011 - 22:17:06 	Fin du calcul
+19/01/2011 - 22:18:30 	Début du calcul
+19/01/2011 - 22:18:30 	Nombre de positions : 1001
+19/01/2011 - 22:18:30 	Simulation inactivée
+19/01/2011 - 22:18:30 	Lecture des conditions initiales
+19/01/2011 - 22:18:32 	Fin du calcul
+19/01/2011 - 22:20:42 	Début du calcul
+19/01/2011 - 22:20:42 	Nombre de positions : 1001
+19/01/2011 - 22:20:42 	Simulation inactivée
+19/01/2011 - 22:20:42 	Lecture des conditions initiales
+19/01/2011 - 22:20:45 	Fin du calcul
+19/01/2011 - 22:22:40 	Début du calcul
+19/01/2011 - 22:22:40 	Nombre de positions : 1001
+19/01/2011 - 22:22:40 	Simulation inactivée
+19/01/2011 - 22:22:40 	Lecture des conditions initiales
+19/01/2011 - 22:22:42 	Fin du calcul
+19/01/2011 - 22:33:28 	Début du calcul
+19/01/2011 - 22:33:28 	Nombre de positions : 1001
+19/01/2011 - 22:33:28 	Simulation inactivée
+19/01/2011 - 22:33:28 	Lecture des conditions initiales
+19/01/2011 - 22:33:31 	Fin du calcul
+19/01/2011 - 22:42:19 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+19/01/2011 - 22:54:25 	===== Ouverture de session =====
+19/01/2011 - 23:17:40 	Début du calcul
+19/01/2011 - 23:17:40 	Nombre de positions : 1001
+19/01/2011 - 23:17:40 	Simulation inactivée
+19/01/2011 - 23:17:40 	Lecture des conditions initiales
+19/01/2011 - 23:17:43 	Fin du calcul
+19/01/2011 - 23:19:57 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+20/01/2011 - 09:43:33 	===== Ouverture de session =====
+20/01/2011 - 09:44:09 	Début du calcul
+20/01/2011 - 09:44:09 	Nombre de positions : 1001
+20/01/2011 - 09:44:09 	Simulation inactivée
+20/01/2011 - 09:44:09 	Lecture des conditions initiales
+20/01/2011 - 09:44:11 	Fin du calcul
+20/01/2011 - 09:45:03 	Début du calcul
+20/01/2011 - 09:45:03 	Nombre de positions : 1001
+20/01/2011 - 09:45:03 	Simulation inactivée
+20/01/2011 - 09:45:03 	Lecture des conditions initiales
+20/01/2011 - 09:45:05 	Fin du calcul
+20/01/2011 - 09:45:55 	Début du calcul
+20/01/2011 - 09:45:55 	Nombre de positions : 1001
+20/01/2011 - 09:45:55 	Simulation inactivée
+20/01/2011 - 09:45:55 	Lecture des conditions initiales
+20/01/2011 - 09:45:57 	Fin du calcul
+20/01/2011 - 09:46:22 	Début du calcul
+20/01/2011 - 09:46:22 	Nombre de positions : 1001
+20/01/2011 - 09:46:22 	Simulation inactivée
+20/01/2011 - 09:46:22 	Lecture des conditions initiales
+20/01/2011 - 09:46:25 	Fin du calcul
+20/01/2011 - 09:52:33 	Début du calcul
+20/01/2011 - 09:52:33 	Nombre de positions : 1001
+20/01/2011 - 09:52:33 	Simulation inactivée
+20/01/2011 - 09:52:33 	Lecture des conditions initiales
+20/01/2011 - 09:52:35 	Fin du calcul
+20/01/2011 - 09:54:02 	Début du calcul
+20/01/2011 - 09:54:02 	Nombre de positions : 1001
+20/01/2011 - 09:54:02 	Simulation inactivée
+20/01/2011 - 09:54:02 	Lecture des conditions initiales
+20/01/2011 - 09:54:04 	Fin du calcul
+20/01/2011 - 10:01:32 	Début du calcul
+20/01/2011 - 10:01:32 	Nombre de positions : 1001
+20/01/2011 - 10:01:32 	Simulation inactivée
+20/01/2011 - 10:01:32 	Lecture des conditions initiales
+20/01/2011 - 10:01:33 	Fin du calcul
+20/01/2011 - 10:04:06 	Début du calcul
+20/01/2011 - 10:04:06 	Nombre de positions : 1001
+20/01/2011 - 10:04:06 	Simulation inactivée
+20/01/2011 - 10:04:06 	Lecture des conditions initiales
+20/01/2011 - 10:04:07 	Fin du calcul
+20/01/2011 - 10:08:07 	Début du calcul
+20/01/2011 - 10:08:07 	Nombre de positions : 1001
+20/01/2011 - 10:08:07 	Simulation inactivée
+20/01/2011 - 10:08:07 	Lecture des conditions initiales
+20/01/2011 - 10:08:09 	Fin du calcul
+20/01/2011 - 10:13:59 	Début du calcul
+20/01/2011 - 10:13:59 	Nombre de positions : 1001
+20/01/2011 - 10:13:59 	Simulation inactivée
+20/01/2011 - 10:13:59 	Lecture des conditions initiales
+20/01/2011 - 10:14:01 	Fin du calcul
+20/01/2011 - 10:15:39 	Début du calcul
+20/01/2011 - 10:15:39 	Nombre de positions : 1001
+20/01/2011 - 10:15:39 	Simulation inactivée
+20/01/2011 - 10:15:39 	Lecture des conditions initiales
+20/01/2011 - 10:15:41 	Fin du calcul
+20/01/2011 - 10:18:40 	Début du calcul
+20/01/2011 - 10:18:40 	Nombre de positions : 1001
+20/01/2011 - 10:18:40 	Simulation inactivée
+20/01/2011 - 10:18:40 	Lecture des conditions initiales
+20/01/2011 - 10:18:42 	Fin du calcul
+20/01/2011 - 10:20:19 	Début du calcul
+20/01/2011 - 10:20:19 	Nombre de positions : 1001
+20/01/2011 - 10:20:19 	Simulation inactivée
+20/01/2011 - 10:20:19 	Lecture des conditions initiales
+20/01/2011 - 10:20:21 	Fin du calcul
+20/01/2011 - 10:23:22 	Début du calcul
+20/01/2011 - 10:23:22 	Nombre de positions : 1001
+20/01/2011 - 10:23:22 	Simulation inactivée
+20/01/2011 - 10:23:22 	Lecture des conditions initiales
+20/01/2011 - 10:23:24 	Fin du calcul
+20/01/2011 - 10:24:44 	Début du calcul
+20/01/2011 - 10:24:44 	Nombre de positions : 1001
+20/01/2011 - 10:24:44 	Simulation inactivée
+20/01/2011 - 10:24:44 	Lecture des conditions initiales
+20/01/2011 - 10:24:46 	Fin du calcul
+20/01/2011 - 10:25:50 	Début du calcul
+20/01/2011 - 10:25:50 	Nombre de positions : 1001
+20/01/2011 - 10:25:50 	Simulation inactivée
+20/01/2011 - 10:25:50 	Lecture des conditions initiales
+20/01/2011 - 10:25:52 	Fin du calcul
+20/01/2011 - 10:27:17 	Début du calcul
+20/01/2011 - 10:27:17 	Nombre de positions : 1001
+20/01/2011 - 10:27:17 	Simulation inactivée
+20/01/2011 - 10:27:17 	Lecture des conditions initiales
+20/01/2011 - 10:27:19 	Fin du calcul
+20/01/2011 - 10:28:52 	Début du calcul
+20/01/2011 - 10:28:52 	Nombre de positions : 1001
+20/01/2011 - 10:28:52 	Simulation inactivée
+20/01/2011 - 10:28:52 	Lecture des conditions initiales
+20/01/2011 - 10:28:53 	Fin du calcul
+20/01/2011 - 10:30:39 	Début du calcul
+20/01/2011 - 10:30:39 	Nombre de positions : 1001
+20/01/2011 - 10:30:39 	Simulation inactivée
+20/01/2011 - 10:30:39 	Lecture des conditions initiales
+20/01/2011 - 10:30:41 	Fin du calcul
+20/01/2011 - 10:31:55 	Début du calcul
+20/01/2011 - 10:31:55 	Nombre de positions : 1001
+20/01/2011 - 10:31:55 	Simulation inactivée
+20/01/2011 - 10:31:55 	Lecture des conditions initiales
+20/01/2011 - 10:31:58 	Fin du calcul
+20/01/2011 - 10:34:53 	Début du calcul
+20/01/2011 - 10:34:53 	Nombre de positions : 1001
+20/01/2011 - 10:34:53 	Simulation inactivée
+20/01/2011 - 10:34:53 	Lecture des conditions initiales
+20/01/2011 - 10:34:57 	Fin du calcul
+20/01/2011 - 10:37:17 	Début du calcul
+20/01/2011 - 10:37:17 	Nombre de positions : 1001
+20/01/2011 - 10:37:17 	Simulation inactivée
+20/01/2011 - 10:37:17 	Lecture des conditions initiales
+20/01/2011 - 10:37:19 	Fin du calcul
+20/01/2011 - 10:43:02 	Début du calcul
+20/01/2011 - 10:43:02 	Nombre de positions : 1001
+20/01/2011 - 10:43:02 	Simulation inactivée
+20/01/2011 - 10:43:02 	Lecture des conditions initiales
+20/01/2011 - 10:43:04 	Fin du calcul
+20/01/2011 - 10:47:30 	Début du calcul
+20/01/2011 - 10:47:30 	Nombre de positions : 1001
+20/01/2011 - 10:47:30 	Simulation inactivée
+20/01/2011 - 10:47:30 	Lecture des conditions initiales
+20/01/2011 - 10:47:32 	Fin du calcul
+20/01/2011 - 10:53:15 	Début du calcul
+20/01/2011 - 10:53:15 	Nombre de positions : 1001
+20/01/2011 - 10:53:15 	Simulation inactivée
+20/01/2011 - 10:53:15 	Lecture des conditions initiales
+20/01/2011 - 10:53:17 	Fin du calcul
+20/01/2011 - 10:57:31 	Début du calcul
+20/01/2011 - 10:57:31 	Nombre de positions : 1001
+20/01/2011 - 10:57:31 	Simulation inactivée
+20/01/2011 - 10:57:31 	Lecture des conditions initiales
+20/01/2011 - 10:57:33 	Fin du calcul
+20/01/2011 - 11:00:08 	Début du calcul
+20/01/2011 - 11:00:08 	Nombre de positions : 1001
+20/01/2011 - 11:00:08 	Simulation inactivée
+20/01/2011 - 11:00:08 	Lecture des conditions initiales
+20/01/2011 - 11:00:10 	Fin du calcul
+20/01/2011 - 11:02:32 	Début du calcul
+20/01/2011 - 11:02:32 	Nombre de positions : 1001
+20/01/2011 - 11:02:32 	Simulation inactivée
+20/01/2011 - 11:02:32 	Lecture des conditions initiales
+20/01/2011 - 11:02:34 	Fin du calcul
+20/01/2011 - 11:04:29 	Début du calcul
+20/01/2011 - 11:04:29 	Nombre de positions : 1001
+20/01/2011 - 11:04:29 	Simulation inactivée
+20/01/2011 - 11:04:29 	Lecture des conditions initiales
+20/01/2011 - 11:04:30 	Fin du calcul
+20/01/2011 - 11:09:36 	Début du calcul
+20/01/2011 - 11:09:36 	Nombre de positions : 1001
+20/01/2011 - 11:09:36 	Simulation inactivée
+20/01/2011 - 11:09:36 	Lecture des conditions initiales
+20/01/2011 - 11:09:38 	Fin du calcul
+20/01/2011 - 11:15:03 	Début du calcul
+20/01/2011 - 11:15:03 	Nombre de positions : 1001
+20/01/2011 - 11:15:03 	Simulation inactivée
+20/01/2011 - 11:15:03 	Lecture des conditions initiales
+20/01/2011 - 11:15:05 	Fin du calcul
+20/01/2011 - 11:15:39 	Début du calcul
+20/01/2011 - 11:15:39 	Nombre de positions : 1001
+20/01/2011 - 11:15:39 	Simulation inactivée
+20/01/2011 - 11:15:39 	Lecture des conditions initiales
+20/01/2011 - 11:15:43 	Fin du calcul
+20/01/2011 - 11:16:48 	Début du calcul
+20/01/2011 - 11:16:48 	Nombre de positions : 1001
+20/01/2011 - 11:16:48 	Simulation inactivée
+20/01/2011 - 11:16:48 	Lecture des conditions initiales
+20/01/2011 - 11:16:50 	Fin du calcul
+20/01/2011 - 11:17:36 	Début du calcul
+20/01/2011 - 11:17:36 	Nombre de positions : 1001
+20/01/2011 - 11:17:36 	Simulation inactivée
+20/01/2011 - 11:17:36 	Lecture des conditions initiales
+20/01/2011 - 11:17:38 	Fin du calcul
+20/01/2011 - 11:19:10 	Début du calcul
+20/01/2011 - 11:19:10 	Nombre de positions : 1001
+20/01/2011 - 11:19:10 	Simulation inactivée
+20/01/2011 - 11:19:10 	Lecture des conditions initiales
+20/01/2011 - 11:19:12 	Fin du calcul
+20/01/2011 - 11:19:48 	Début du calcul
+20/01/2011 - 11:19:48 	Nombre de positions : 1001
+20/01/2011 - 11:19:48 	Simulation inactivée
+20/01/2011 - 11:19:48 	Lecture des conditions initiales
+20/01/2011 - 11:19:50 	Fin du calcul
+20/01/2011 - 11:31:51 	Début du calcul
+20/01/2011 - 11:31:51 	Nombre de positions : 1001
+20/01/2011 - 11:31:51 	Simulation inactivée
+20/01/2011 - 11:31:51 	Lecture des conditions initiales
+20/01/2011 - 11:31:53 	Fin du calcul
+20/01/2011 - 11:32:30 	Début du calcul
+20/01/2011 - 11:32:30 	Nombre de positions : 1001
+20/01/2011 - 11:32:30 	Simulation inactivée
+20/01/2011 - 11:32:30 	Lecture des conditions initiales
+20/01/2011 - 11:32:41 	Fin du calcul
+20/01/2011 - 11:33:30 	Début du calcul
+20/01/2011 - 11:33:30 	Nombre de positions : 1001
+20/01/2011 - 11:33:30 	Simulation inactivée
+20/01/2011 - 11:33:30 	Lecture des conditions initiales
+20/01/2011 - 11:33:36 	Fin du calcul
+20/01/2011 - 11:36:36 	Début du calcul
+20/01/2011 - 11:36:36 	Nombre de positions : 1001
+20/01/2011 - 11:36:36 	Simulation inactivée
+20/01/2011 - 11:36:36 	Lecture des conditions initiales
+20/01/2011 - 11:36:40 	Fin du calcul
+20/01/2011 - 11:37:59 	Début du calcul
+20/01/2011 - 11:37:59 	Nombre de positions : 1001
+20/01/2011 - 11:37:59 	Simulation inactivée
+20/01/2011 - 11:37:59 	Lecture des conditions initiales
+20/01/2011 - 11:38:03 	Fin du calcul
+20/01/2011 - 11:39:31 	Début du calcul
+20/01/2011 - 11:39:31 	Nombre de positions : 1001
+20/01/2011 - 11:39:31 	Simulation inactivée
+20/01/2011 - 11:39:31 	Lecture des conditions initiales
+20/01/2011 - 11:39:35 	Fin du calcul
+20/01/2011 - 11:39:41 	Début du calcul
+20/01/2011 - 11:39:41 	Nombre de positions : 1001
+20/01/2011 - 11:39:41 	Simulation inactivée
+20/01/2011 - 11:39:41 	Lecture des conditions initiales
+20/01/2011 - 11:39:44 	Fin du calcul
+20/01/2011 - 11:48:10 	Début du calcul
+20/01/2011 - 11:48:10 	Nombre de positions : 1001
+20/01/2011 - 11:48:10 	Simulation inactivée
+20/01/2011 - 11:48:10 	Lecture des conditions initiales
+20/01/2011 - 11:48:14 	Fin du calcul
+20/01/2011 - 11:51:17 	Début du calcul
+20/01/2011 - 11:51:17 	Nombre de positions : 1001
+20/01/2011 - 11:51:17 	Simulation inactivée
+20/01/2011 - 11:51:17 	Lecture des conditions initiales
+20/01/2011 - 11:51:20 	Fin du calcul
+20/01/2011 - 12:09:24 	Début du calcul
+20/01/2011 - 12:09:24 	Nombre de positions : 1001
+20/01/2011 - 12:09:24 	Simulation inactivée
+20/01/2011 - 12:09:24 	Lecture des conditions initiales
+20/01/2011 - 12:09:28 	Fin du calcul
+20/01/2011 - 12:12:29 	Début du calcul
+20/01/2011 - 12:12:29 	Nombre de positions : 1001
+20/01/2011 - 12:12:29 	Simulation inactivée
+20/01/2011 - 12:12:29 	Lecture des conditions initiales
+20/01/2011 - 12:12:33 	Fin du calcul
+20/01/2011 - 12:13:43 	Début du calcul
+20/01/2011 - 12:13:43 	Nombre de positions : 1001
+20/01/2011 - 12:13:43 	Simulation inactivée
+20/01/2011 - 12:13:43 	Lecture des conditions initiales
+20/01/2011 - 12:13:48 	Fin du calcul
+20/01/2011 - 12:15:05 	Début du calcul
+20/01/2011 - 12:15:05 	Nombre de positions : 1001
+20/01/2011 - 12:15:05 	Simulation inactivée
+20/01/2011 - 12:15:05 	Lecture des conditions initiales
+20/01/2011 - 12:15:09 	Fin du calcul
+20/01/2011 - 12:16:20 	Début du calcul
+20/01/2011 - 12:16:20 	Nombre de positions : 1001
+20/01/2011 - 12:16:20 	Simulation inactivée
+20/01/2011 - 12:16:20 	Lecture des conditions initiales
+20/01/2011 - 12:16:24 	Fin du calcul
+20/01/2011 - 12:25:12 	Début du calcul
+20/01/2011 - 12:25:12 	Nombre de positions : 1001
+20/01/2011 - 12:25:12 	Simulation inactivée
+20/01/2011 - 12:25:12 	Lecture des conditions initiales
+20/01/2011 - 12:25:21 	Fin du calcul
+20/01/2011 - 12:25:29 	Début du calcul
+20/01/2011 - 12:25:29 	Nombre de positions : 1001
+20/01/2011 - 12:25:29 	Simulation inactivée
+20/01/2011 - 12:25:29 	Lecture des conditions initiales
+20/01/2011 - 12:25:32 	Fin du calcul
+20/01/2011 - 12:27:57 	Début du calcul
+20/01/2011 - 12:27:57 	Nombre de positions : 1001
+20/01/2011 - 12:27:57 	Simulation inactivée
+20/01/2011 - 12:27:57 	Lecture des conditions initiales
+20/01/2011 - 12:28:00 	Fin du calcul
+20/01/2011 - 12:28:04 	Début du calcul
+20/01/2011 - 12:28:04 	Nombre de positions : 1001
+20/01/2011 - 12:28:04 	Simulation inactivée
+20/01/2011 - 12:28:04 	Lecture des conditions initiales
+20/01/2011 - 12:28:07 	Fin du calcul
+20/01/2011 - 12:28:13 	Début du calcul
+20/01/2011 - 12:28:13 	Nombre de positions : 1001
+20/01/2011 - 12:28:13 	Simulation inactivée
+20/01/2011 - 12:28:13 	Lecture des conditions initiales
+20/01/2011 - 12:28:17 	Fin du calcul
+20/01/2011 - 12:28:23 	Début du calcul
+20/01/2011 - 12:28:23 	Nombre de positions : 1001
+20/01/2011 - 12:28:23 	Simulation inactivée
+20/01/2011 - 12:28:23 	Lecture des conditions initiales
+20/01/2011 - 12:28:27 	Fin du calcul
+20/01/2011 - 12:28:31 	Début du calcul
+20/01/2011 - 12:28:31 	Nombre de positions : 1001
+20/01/2011 - 12:28:31 	Simulation inactivée
+20/01/2011 - 12:28:31 	Lecture des conditions initiales
+20/01/2011 - 12:28:34 	Fin du calcul
+20/01/2011 - 12:30:17 	Début du calcul
+20/01/2011 - 12:30:17 	Nombre de positions : 1001
+20/01/2011 - 12:30:17 	Simulation inactivée
+20/01/2011 - 12:30:17 	Lecture des conditions initiales
+20/01/2011 - 12:30:20 	Fin du calcul
+20/01/2011 - 12:31:05 	Début du calcul
+20/01/2011 - 12:31:05 	Nombre de positions : 1001
+20/01/2011 - 12:31:05 	Simulation inactivée
+20/01/2011 - 12:31:05 	Lecture des conditions initiales
+20/01/2011 - 12:31:12 	Fin du calcul
+20/01/2011 - 12:31:20 	Début du calcul
+20/01/2011 - 12:31:20 	Nombre de positions : 1001
+20/01/2011 - 12:31:20 	Simulation inactivée
+20/01/2011 - 12:31:20 	Lecture des conditions initiales
+20/01/2011 - 12:31:23 	Fin du calcul
+20/01/2011 - 12:34:04 	Début du calcul
+20/01/2011 - 12:34:04 	Nombre de positions : 1001
+20/01/2011 - 12:34:04 	Simulation inactivée
+20/01/2011 - 12:34:04 	Lecture des conditions initiales
+20/01/2011 - 12:34:07 	Fin du calcul
+20/01/2011 - 12:34:18 	Début du calcul
+20/01/2011 - 12:34:18 	Nombre de positions : 1001
+20/01/2011 - 12:34:18 	Simulation inactivée
+20/01/2011 - 12:34:18 	Lecture des conditions initiales
+20/01/2011 - 12:34:22 	Fin du calcul
+20/01/2011 - 12:35:23 	Début du calcul
+20/01/2011 - 12:35:23 	Nombre de positions : 1001
+20/01/2011 - 12:35:23 	Simulation inactivée
+20/01/2011 - 12:35:23 	Lecture des conditions initiales
+20/01/2011 - 12:35:27 	Fin du calcul
+20/01/2011 - 12:38:04 	Début du calcul
+20/01/2011 - 12:38:04 	Nombre de positions : 1001
+20/01/2011 - 12:38:04 	Simulation inactivée
+20/01/2011 - 12:38:04 	Lecture des conditions initiales
+20/01/2011 - 12:38:08 	Fin du calcul
+20/01/2011 - 12:40:20 	Début du calcul
+20/01/2011 - 12:40:20 	Nombre de positions : 1001
+20/01/2011 - 12:40:20 	Simulation inactivée
+20/01/2011 - 12:40:20 	Lecture des conditions initiales
+20/01/2011 - 12:40:26 	Fin du calcul
+20/01/2011 - 12:40:51 	Début du calcul
+20/01/2011 - 12:40:51 	Nombre de positions : 1001
+20/01/2011 - 12:40:51 	Simulation inactivée
+20/01/2011 - 12:40:51 	Lecture des conditions initiales
+20/01/2011 - 12:40:56 	Fin du calcul
+20/01/2011 - 12:41:55 	Début du calcul
+20/01/2011 - 12:41:55 	Nombre de positions : 1001
+20/01/2011 - 12:41:55 	Simulation inactivée
+20/01/2011 - 12:41:55 	Lecture des conditions initiales
+20/01/2011 - 12:42:00 	Fin du calcul
+20/01/2011 - 12:43:20 	Début du calcul
+20/01/2011 - 12:43:20 	Nombre de positions : 1001
+20/01/2011 - 12:43:20 	Simulation inactivée
+20/01/2011 - 12:43:20 	Lecture des conditions initiales
+20/01/2011 - 12:43:25 	Fin du calcul
+20/01/2011 - 12:46:06 	Début du calcul
+20/01/2011 - 12:46:06 	Nombre de positions : 1001
+20/01/2011 - 12:46:06 	Simulation inactivée
+20/01/2011 - 12:46:06 	Lecture des conditions initiales
+20/01/2011 - 12:46:10 	Fin du calcul
+20/01/2011 - 12:52:49 	Début du calcul
+20/01/2011 - 12:52:49 	Nombre de positions : 1001
+20/01/2011 - 12:52:49 	Simulation inactivée
+20/01/2011 - 12:52:49 	Lecture des conditions initiales
+20/01/2011 - 12:52:53 	Fin du calcul
+20/01/2011 - 12:56:04 	Début du calcul
+20/01/2011 - 12:56:04 	Nombre de positions : 1001
+20/01/2011 - 12:56:04 	Simulation inactivée
+20/01/2011 - 12:56:04 	Lecture des conditions initiales
+20/01/2011 - 12:56:09 	Fin du calcul
+20/01/2011 - 12:56:43 	Début du calcul
+20/01/2011 - 12:56:43 	Nombre de positions : 1001
+20/01/2011 - 12:56:43 	Simulation inactivée
+20/01/2011 - 12:56:43 	Lecture des conditions initiales
+20/01/2011 - 12:56:48 	Fin du calcul
+20/01/2011 - 12:59:30 	Début du calcul
+20/01/2011 - 12:59:30 	Nombre de positions : 1001
+20/01/2011 - 12:59:30 	Simulation inactivée
+20/01/2011 - 12:59:30 	Lecture des conditions initiales
+20/01/2011 - 12:59:34 	Fin du calcul
+20/01/2011 - 13:01:26 	Début du calcul
+20/01/2011 - 13:01:26 	Nombre de positions : 1001
+20/01/2011 - 13:01:26 	Simulation inactivée
+20/01/2011 - 13:01:26 	Lecture des conditions initiales
+20/01/2011 - 13:01:35 	Fin du calcul
+20/01/2011 - 13:06:24 	Début du calcul
+20/01/2011 - 13:06:24 	Nombre de positions : 1001
+20/01/2011 - 13:06:24 	Simulation inactivée
+20/01/2011 - 13:06:24 	Lecture des conditions initiales
+20/01/2011 - 13:06:28 	Fin du calcul
+20/01/2011 - 13:07:39 	Début du calcul
+20/01/2011 - 13:07:39 	Nombre de positions : 1001
+20/01/2011 - 13:07:39 	Simulation inactivée
+20/01/2011 - 13:07:39 	Lecture des conditions initiales
+20/01/2011 - 13:07:43 	Fin du calcul
+20/01/2011 - 13:12:36 	Début du calcul
+20/01/2011 - 13:12:36 	Nombre de positions : 1001
+20/01/2011 - 13:12:36 	Simulation inactivée
+20/01/2011 - 13:12:36 	Lecture des conditions initiales
+20/01/2011 - 13:12:39 	Fin du calcul
+20/01/2011 - 14:31:38 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+21/01/2011 - 09:54:47 	===== Ouverture de session =====
+21/01/2011 - 11:42:05 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+21/01/2011 - 21:18:35 	===== Ouverture de session =====
+21/01/2011 - 21:18:57 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+21/01/2011 - 21:19:47 	===== Ouverture de session =====
+21/01/2011 - 21:23:53 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:17:47 	===== Ouverture de session =====
+23/01/2011 - 12:18:07 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:19:48 	===== Ouverture de session =====
+23/01/2011 - 12:20:21 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:21:04 	===== Ouverture de session =====
+23/01/2011 - 12:21:26 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:48:16 	===== Ouverture de session =====
+23/01/2011 - 12:48:35 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:49:53 	===== Ouverture de session =====
+23/01/2011 - 12:53:04 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 12:53:38 	===== Ouverture de session =====
+23/01/2011 - 13:40:24 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 13:57:57 	===== Ouverture de session =====
+23/01/2011 - 13:58:23 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:02:26 	===== Ouverture de session =====
+23/01/2011 - 14:02:57 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:03:16 	===== Ouverture de session =====
+23/01/2011 - 14:04:38 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:04:55 	===== Ouverture de session =====
+23/01/2011 - 14:05:30 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:05:58 	===== Ouverture de session =====
+23/01/2011 - 14:06:54 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:09:45 	===== Ouverture de session =====
+23/01/2011 - 14:10:23 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:10:51 	===== Ouverture de session =====
+23/01/2011 - 14:12:59 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:24:49 	===== Ouverture de session =====
+23/01/2011 - 14:34:31 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:34:51 	===== Ouverture de session =====
+23/01/2011 - 14:35:35 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 14:51:45 	===== Ouverture de session =====
+23/01/2011 - 15:00:48 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 15:01:03 	===== Ouverture de session =====
+23/01/2011 - 15:22:11 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+23/01/2011 - 17:52:14 	===== Ouverture de session =====
+23/01/2011 - 17:54:34 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+25/01/2011 - 21:43:09 	===== Ouverture de session =====
+25/01/2011 - 21:43:37 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+07/02/2011 - 12:05:47 	===== Ouverture de session =====
+07/02/2011 - 12:14:35 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 13:42:09 	===== Ouverture de session =====
+10/02/2011 - 14:01:15 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 14:11:50 	===== Ouverture de session =====
+10/02/2011 - 14:28:43 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 14:38:50 	===== Ouverture de session =====
+10/02/2011 - 14:47:44 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 15:08:15 	===== Ouverture de session =====
+10/02/2011 - 15:12:35 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 15:14:27 	===== Ouverture de session =====
+10/02/2011 - 15:36:01 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 16:37:57 	===== Ouverture de session =====
+10/02/2011 - 16:48:55 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 20:50:49 	===== Ouverture de session =====
+10/02/2011 - 21:14:45 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+10/02/2011 - 21:15:13 	===== Ouverture de session =====
+10/02/2011 - 21:29:15 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+11/02/2011 - 08:43:10 	===== Ouverture de session =====
+11/02/2011 - 08:47:33 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+11/02/2011 - 09:32:36 	===== Ouverture de session =====
+11/02/2011 - 09:39:48 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+11/02/2011 - 09:40:08 	===== Ouverture de session =====
+11/02/2011 - 09:49:13 	===== Fermeture de session =====
+
+===============Finish Logging================
+
+
+===============Init Logging================
+
+27/04/2012 - 16:23:08 	===== Ouverture de session =====
+27/04/2012 - 16:24:42 	===== Fermeture de session =====
+
+===============Finish Logging================
+

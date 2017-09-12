@@ -1,0 +1,328 @@
+﻿<html>
+	
+<head>
+	<title>Dossier technique</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="generator" content="HelpNDoc Personal Edition 3.6.0.345">
+	<link type="text/css" rel="stylesheet" media="all" href="css/reset.css" />
+	<link type="text/css" rel="stylesheet" media="all" href="css/base.css" />
+	<link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" />
+	<!--[if lte IE 8]>
+		<link type="text/css" rel="stylesheet" media="all" href="css/ielte8.css" />
+	<![endif]-->
+	<style type="text/css">
+		#topic_header
+		{
+			background-color: #808080;
+		}
+	</style>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/hnd.js"></script>
+	<script type="text/javascript">
+		if (top.frames.length == 0)
+		{
+			var sTopicUrl = top.location.href.substring(top.location.href.lastIndexOf("/") + 1, top.location.href.length);
+			top.location.href = "index.html?" + sTopicUrl;
+		}
+		else if (top && top.FrameTOC && top.FrameTOC.SelectTocItem)
+		{
+			top.FrameTOC.SelectTocItem("Dossiertechnique");
+		}
+	</script>
+</head>
+
+<body>
+
+	<div id="topic_header">
+			<div id="topic_header_content">
+				<h1>Dossier technique</h1>
+				
+				<div id="topic_breadcrumb">
+					<a href="Etudesdecas.html">Etudes de cas</a> &rsaquo;&rsaquo; <a href="EtudesdecasPortailSolaire.html">Etudes de cas Portail Solaire</a> &rsaquo;&rsaquo; </div>
+				</div>
+			<div id="topic_header_nav">
+				<a href="EtudesdecasPortailSolaire.html"><img src="img/arrow_up.png" alt="Parent"/></a>
+				
+				<a href="Prsentation.html"><img src="img/arrow_left.png" alt="Previous"/></a>
+				
+				<a href="Activitslves.html"><img src="img/arrow_right.png" alt="Next"/></a>
+				
+				</div>
+			<div class="clear"></div>
+		</div>
+	<div id="topic_content">
+		
+<p class="rvps1"><span class="rvts54">Présentation du système</span></p>
+<p class="rvps31"><span class="rvts38"><br/></span></p>
+<p class="rvps31"><span class="rvts38">Dans le secteur de l'habitat, l'automatisation des dispositifs d'accès est en fort développement.</span></p>
+<p class="rvps31"><span class="rvts38"><br/></span></p>
+<p class="rvps1"><img width="563" height="781" alt="" style="padding : 1px;" src="lib/NouvelElement41.png"/></p>
+<p class="rvps1"><span class="rvts38"><br/></span></p>
+<p class="rvps32"><span class="rvts38">Le système pédagogique proposé par la société SET s'appuie sur un produit innovant, développé par la société Avidsen, destiné à la commande de portails à battants. Ce produit se caractérise par une absence de liaison au réseau électrique basse tension grâce à son alimentation par panneaux photovoltaïques ainsi que par une absence de liaison filaire entre les deux centrales électroniques grâce à la radio-transmission.</span></p>
+<p class="rvps32"><span class="rvts38"><br/></span></p>
+<p class="rvps33"><span class="rvts55">ANALYSE FONCTIONNELLE EXTERNE</span></p>
+<p class="rvps34"><span class="rvts56">Expression du besoin fondamental (diagramme "bête à cornes")</span></p>
+<p><span class="rvts38">De quoi s</span><span class="rvts38">’</span><span class="rvts38">agit-il&nbsp;? D</span><span class="rvts38">’</span><span class="rvts38">un ouvre portail</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">A qui sert-il&nbsp;? </span><span class="rvts57">à</span><span class="rvts38"> un utilisateur (automobiliste ou piéton)</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">Sur quoi agit-il&nbsp;? Sur les vantaux</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">Pour quoi faire&nbsp;? Pour ouvrir ou fermer les vantaux automatiquement</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p class="rvps1"><img alt="" style="padding : 1px;" src="lib/NouvelElement40.png"/></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38"><br/></span></p>
+<p class="rvps33"><span class="rvts55">Diagramme des interacteurs simplifié (diagramme "pieuvre")</span></p>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<p class="rvps33"><img width="723" height="461" alt="" style="padding : 1px;" src="lib/NouvelElement39.png"/></p>
+<p><span class="rvts59">FP1&nbsp;: Ouvrir, fermer ou arrêter les vantaux sur demande de l</span><span class="rvts59">’</span><span class="rvts59">utilisateur</span></p>
+<p><span class="rvts59"><br/></span></p>
+<p><span class="rvts59">FP2 : Libérer les vantaux pour une utilisation manuelle (lors du réglage initial ou lors d</span><span class="rvts59">’</span><span class="rvts59">une panne)</span></p>
+<p><span class="rvts59"><br/></span></p>
+<p><span class="rvts59">FP3&nbsp;: Arrêter les vantaux si l</span><span class="rvts59">’</span><span class="rvts59">un d</span><span class="rvts59">’</span><span class="rvts59">eux vient en butée ou en contact avec un obstacle (personne ou véhicule)</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC1&nbsp;: Doit être simple à utiliser</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC2&nbsp;: Doit s</span><span class="rvts38">’</span><span class="rvts38">adapter aux parties fixes (pour la fixation)</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC3&nbsp;: Doit s</span><span class="rvts38">’</span><span class="rvts38">adapter aux vantaux</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC4&nbsp;: Doit plaire à l</span><span class="rvts38">’</span><span class="rvts38">œil</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC5 : Doit être conforme aux normes</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC6&nbsp;: Doit être indépendant énergétiquement</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC7&nbsp;: Doit résister au milieu ambiant</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">FC8&nbsp;: Doit être facile à installer</span></p>
+<p class="rvps33"><span class="rvts55"><br/></span></p>
+<p class="rvps33"><span class="rvts55">Caractérisation des fonctions</span></p>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<div class="rvps40"><table border="1" cellpadding="4" cellspacing="-1" style="border-width: 0px; border-collapse: collapse;">
+<tr valign="top">
+<td valign="middle" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p class="rvps1"><span class="rvts59">Fonctions</span></p>
+</td>
+<td valign="middle" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p class="rvps1"><span class="rvts59">Critères d</span><span class="rvts59">’</span><span class="rvts59">appréciation</span></p>
+</td>
+<td valign="middle" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p class="rvps36"><span class="rvts59">Niveau d</span><span class="rvts59">’</span><span class="rvts59">appréciation</span></p>
+</td>
+<td valign="middle" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps37"><span class="rvts59">Flexi-bilité</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FP1&nbsp;: </span><span class="rvts59">Ouvrir</span><span class="rvts38">, </span><span class="rvts59">fermer</span><span class="rvts38"> ou </span><span class="rvts59">arrêter</span><span class="rvts38"> les vantaux sur demande de l</span><span class="rvts38">’</span><span class="rvts38">utilisateur</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Longueur de vantaux</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">Masse de chaque vantail</span></p>
+<p><span class="rvts38">Matière des vantaux</span></p>
+<p><span class="rvts38">Ouverture des vantaux</span></p>
+<p><span class="rvts38">Autonomie</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;Temps d</span><span class="rvts38">’</span><span class="rvts38">ouverture moyen (course = 90°)</span></p>
+<p><span class="rvts38">Portée de la télécommande en champ libre</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Mini&nbsp;: 1 mètre</span></p>
+<p><span class="rvts38">Maxi&nbsp;: 2 mètres </span></p>
+<p><span class="rvts38">150 kg maxi</span></p>
+<p><span class="rvts38">Aluminium, fer, bois, PVC</span></p>
+<p><span class="rvts38">120° maxi vers l</span><span class="rvts38">’</span><span class="rvts38">intérieur ou l</span><span class="rvts38">’</span><span class="rvts38">extérieur</span></p>
+<p><span class="rvts38">L</span><span class="rvts38">’</span><span class="rvts38">autonomie du système est «&nbsp;permanente&nbsp;» même avec un faible taux d</span><span class="rvts38">’</span><span class="rvts38">ensoleillement ( </span><span class="rvts38">−</span><span class="rvts38"> de 20 cycles/jours). L</span><span class="rvts38">’</span><span class="rvts38">autonomie dépend de &nbsp;la durée de vie de la batterie (entre 5 et 8 ans)</span></p>
+<p><span class="rvts38">20s</span></p>
+<p><span class="rvts38">Env. 50m (la portée est réduite en présence d</span><span class="rvts38">’</span><span class="rvts38">obstacles : pilier, voiture, pare-brise métallisé)</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F1</span></p>
+<p><span class="rvts38">F1</span></p>
+<p><span class="rvts38">F0</span></p>
+<p><span class="rvts38">F2</span></p>
+<p><span class="rvts38">F0</span></p>
+<p><span class="rvts38">F0</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;F1</span></p>
+<p><span class="rvts38">&nbsp;F1</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FP2 : </span><span class="rvts59">Libérer</span><span class="rvts38"> les vantaux pour une utilisation manuelle (lors du réglage initial ou lors d</span><span class="rvts38">’</span><span class="rvts38">une panne)</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Débrayer les motorisations à l</span><span class="rvts38">’</span><span class="rvts38">aide de la clé </span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Effort normal </span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F1</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FP3&nbsp;: </span><span class="rvts59">Arrêter</span><span class="rvts38"> les vantaux si l</span><span class="rvts38">’</span><span class="rvts38">un d</span><span class="rvts38">’</span><span class="rvts38">eux vient en butée ou en contact avec un obstacle (personne ou véhicule)</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Effort dynamique à 1m</span></p>
+<p><span class="rvts38">Force statique après 5s à 1m</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">&lt; 400N</span></p>
+<p><span class="rvts38">&lt; 25N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F0</span></p>
+<p><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC1&nbsp;: Doit être simple à utiliser</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Télécommande&nbsp;:</span></p>
+<p><span class="rvts38">Pour ouvrir, arrêter ou fermer le portail.</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">Pour ouvrir, arrêter ou fermer uniquement le battant 1 (celui qui s</span><span class="rvts38">’</span><span class="rvts38">ouvre en premier), fonction passage piéton</span></p>
+<p><span class="rvts38">Possibilité d</span><span class="rvts38">’</span><span class="rvts38">ajouter un clavier à code ou un interrupteur à clé</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">Appuyer sur le bouton en haut à gauche de la télécommande programmée</span></p>
+<p><span class="rvts38">Appuyer sur le bouton en haut à droite de la télécommande</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F1</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC2&nbsp;: Doit s</span><span class="rvts38">’</span><span class="rvts38">adapter aux parties fixes (pour la fixation)</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Six trous à réaliser dans chaque pilier pour fixer le support de motorisation</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">6 Trous diam 8</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC3&nbsp;: Doit s</span><span class="rvts38">’</span><span class="rvts38">adapter aux vantaux</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Deux trous à réaliser dans chaque vantail pour fixer une équerre</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">2 Trous diam 8</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC4&nbsp;: Doit plaire à l</span><span class="rvts38">’</span><span class="rvts38">œil</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Formes et couleurs </span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Agréables et bonne tenue au viellissement</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps38"><span class="rvts38">F3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC5 : Doit être conforme aux normes</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Feu clignotant</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;Vitesse maximale </span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">Zone de dégagement</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Il s</span><span class="rvts38">’</span><span class="rvts38">allume 5 secondes avant le mouvement du vantail et s</span><span class="rvts38">’</span><span class="rvts38">éteint 3 secondes après la fin du mouvement du vantail.</span></p>
+<p><span class="rvts38">Pour avoir une zone de danger la plus petite possible, la vitesse maximale doit être inférieure à 0,5 m/s</span></p>
+<p><span class="rvts38">510mm mini pour un angle d</span><span class="rvts38">’</span><span class="rvts38">ouverture de 90°</span></p>
+<p><span class="rvts38">630mm mini pour un angle d</span><span class="rvts38">’</span><span class="rvts38">ouverture de 120°</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps38"><span class="rvts38">F0</span></p>
+<p class="rvps38"><span class="rvts38">&nbsp;&nbsp;</span></p>
+<p class="rvps38"><span class="rvts38">F0</span></p>
+<p class="rvps38"><span class="rvts38">&nbsp;</span></p>
+<p class="rvps38"><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC6&nbsp;: Doit être indépendant énergétiquement</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Un panneau photovoltaïque par motorisation.</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38"><br/></span></p>
+<p><span class="rvts38">Une batterie par motorisation</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p class="rvps39"><span class="rvts38">Durée de vie</span></p>
+<p class="rvps39"><span class="rvts38">Tension des batteries</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Caractéristiques&nbsp;: </span></p>
+<p><span class="rvts38">Unom = 17V</span></p>
+<p><span class="rvts38">Pnom = 4W</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+<p><span class="rvts38">Permet un fonctionnement de 10cycles/jour sans soleil pendant une durée «&nbsp;normale&nbsp;» sous nos latitudes.</span></p>
+<p><span class="rvts38">5 ans</span></p>
+<p><span class="rvts38">12V</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps38"><span class="rvts38">&nbsp;</span></p>
+<p class="rvps38"><span class="rvts38">F0</span></p>
+<p class="rvps38"><span class="rvts38">F2</span></p>
+<p class="rvps38"><span class="rvts38">&nbsp;</span></p>
+<p class="rvps38"><span class="rvts38">F1</span></p>
+<p class="rvps38"><span class="rvts38">&nbsp;</span></p>
+<p class="rvps38"><span class="rvts38">F2</span></p>
+<p class="rvps38"><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC7&nbsp;: Doit résister au milieu ambiant</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Capot de protection</span></p>
+<p><span class="rvts38">Système_ bielle-manivelle et fixations</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">Indice de protection IP44 et résistant aux ultraviolets</span></p>
+<p><span class="rvts38">Peinture de protection</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps38"><span class="rvts38">F0</span></p>
+<p class="rvps38"><span class="rvts38">F0</span></p>
+</td>
+</tr>
+<tr valign="top">
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 199px;"><p><span class="rvts38">FC8&nbsp;: Doit être facile à installer</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 301px;"><p><span class="rvts38">Durée du montage</span></p>
+<p><span class="rvts38">&nbsp;</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 435px;"><p><span class="rvts38">1 heure&nbsp;&nbsp;</span></p>
+<p><span class="rvts38">voir&nbsp;manuel d'installation&nbsp;pages 5 à 27</span></p>
+</td>
+<td valign="top" style="border-width : 1px; border-color: #000000; border-style: solid; width: 43px;"><p class="rvps38"><span class="rvts38">F1</span></p>
+<p class="rvps38"><span class="rvts38">&nbsp;</span></p>
+</td>
+</tr>
+</table>
+</div>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<p class="rvps35"><span class="rvts58"><br/></span></p>
+<p class="rvps31"><span class="rvts38"><br/></span></p>
+<p class="rvps3"><span class="rvts13">Created with the Personal Edition of HelpNDoc: </span><a class="rvts14" href="http://www.helpndoc.com/create-epub-ebooks">Produce electonic books easily</a></p>
+</div>
+	
+	<div id="topic_footer">
+
+			<div id="topic_footer_content">
+				www.mysti2d.net</div>
+		</div>
+	</body>
+	
+</html>
+
